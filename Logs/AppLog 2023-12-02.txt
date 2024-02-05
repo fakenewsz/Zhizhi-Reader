@@ -1,0 +1,71 @@
+2023-12-02 21:09:29.583 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2023-12-02 21:09:29.583 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2023-12-02 21:09:29.583 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2023-12-02 21:09:29.583 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2023-12-02 21:09:29.583 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2023-12-02 21:09:29.583 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2023-12-02 21:09:29.743 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("lastReadedPage", "siderBarMinimized", "count", "font", "categories")
+2023-12-02 21:09:29.743 - Info - "Check table (Annotation) OK."
+2023-12-02 21:09:29.743 - Info - "Check table (Category) OK."
+2023-12-02 21:09:29.743 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("syncTime", "updateCount", "id")
+2023-12-02 21:09:29.743 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("usn", "type", "guid", "id")
+2023-12-02 21:09:29.743 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "type", "guid")
+2023-12-02 21:09:29.743 - Info - "Check table (Tag) OK."
+2023-12-02 21:09:29.744 - Info - "Check table (Resource) OK."
+2023-12-02 21:09:53.737 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2023-12-02 21:09:53.737 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2023-12-02 21:09:53.737 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2023-12-02 21:09:53.737 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2023-12-02 21:09:53.738 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2023-12-02 21:09:53.738 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe", "C:\\Users\\boguagua\\Downloads\\算法竞赛入门经典（第2版） (刘汝佳) (Z-Library).pdf")
+2023-12-02 21:09:53.772 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("siderBarMinimized", "categories", "font", "count", "lastReadedPage")
+2023-12-02 21:09:53.772 - Info - "Check table (Annotation) OK."
+2023-12-02 21:09:53.772 - Info - "Check table (Category) OK."
+2023-12-02 21:09:53.772 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("syncTime", "id", "updateCount")
+2023-12-02 21:09:53.772 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("usn", "id", "type", "guid")
+2023-12-02 21:09:53.772 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "type", "guid")
+2023-12-02 21:09:53.773 - Info - "Check table (Tag) OK."
+2023-12-02 21:09:53.773 - Info - "Check table (Resource) OK."
+2023-12-02 21:09:54.046 - Info - Received message from instance:  1 , arguments:  ("C:\\Users\\boguagua\\Downloads\\算法竞赛入门经典（第2版） (刘汝佳) (Z-Library).pdf")
+2023-12-02 21:09:54.239 - Info - Zhi::Application::DocumentService::newDocument "C:/Users/boguagua/Downloads/算法竞赛入门经典（第2版） (刘汝佳) (Z-Library).pdf" "deb4d9816028c1de500eacca2c812e55"
+2023-12-02 21:09:54.255 - Info - open document: "C:/Users/boguagua/Downloads/算法竞赛入门经典（第2版） (刘汝佳) (Z-Library).pdf" 3  ms
+2023-12-02 21:09:54.272 - Info - initialize reading for: "C:/Users/boguagua/Downloads/算法竞赛入门经典（第2版） (刘汝佳) (Z-Library).pdf" 15  ms
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "ffff00"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "00ff00"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "00ffff"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "ff00ff"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "0000ff"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "ff0000"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "000080"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "008000"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "808000"
+2023-12-02 21:09:54.289 - Warning - unsupported shortcut name: "c0c0c0"
+2023-12-02 21:39:16.764 - Info - Zhi::Application::DocumentService::changeLastRead 644
+2023-12-02 21:57:03.664 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2023-12-02 21:57:03.664 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2023-12-02 21:57:03.664 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2023-12-02 21:57:03.665 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2023-12-02 21:57:03.665 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2023-12-02 21:57:03.665 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe", "C:\\Users\\boguagua\\Downloads\\活出最乐观的自己 (马丁·塞利格曼(Martin E.P. Seligman)) (Z-Library).pdf")
+2023-12-02 21:57:03.703 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("categories", "lastReadedPage", "count", "font", "siderBarMinimized")
+2023-12-02 21:57:03.703 - Info - "Check table (Annotation) OK."
+2023-12-02 21:57:03.703 - Info - "Check table (Category) OK."
+2023-12-02 21:57:03.703 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "syncTime", "id")
+2023-12-02 21:57:03.703 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("usn", "type", "guid", "id")
+2023-12-02 21:57:03.703 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "type", "guid")
+2023-12-02 21:57:03.704 - Info - "Check table (Tag) OK."
+2023-12-02 21:57:03.704 - Info - "Check table (Resource) OK."
+2023-12-02 21:57:04.274 - Info - Zhi::Application::DocumentService::newDocument "C:/Users/boguagua/Downloads/活出最乐观的自己 (马丁·塞利格曼(Martin E.P. Seligman)) (Z-Library).pdf" "197a961290160e1f0d8c8c6c41365910"
+2023-12-02 21:57:04.289 - Info - open document: "C:/Users/boguagua/Downloads/活出最乐观的自己 (马丁·塞利格曼(Martin E.P. Seligman)) (Z-Library).pdf" 1  ms
+2023-12-02 21:57:04.315 - Info - initialize reading for: "C:/Users/boguagua/Downloads/活出最乐观的自己 (马丁·塞利格曼(Martin E.P. Seligman)) (Z-Library).pdf" 26  ms
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "ffff00"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "00ff00"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "00ffff"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "ff00ff"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "0000ff"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "ff0000"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "000080"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "008000"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "808000"
+2023-12-02 21:57:04.328 - Warning - unsupported shortcut name: "c0c0c0"
+2023-12-03 14:28:47.095 - Info - Zhi::Application::DocumentService::changeLastRead 646

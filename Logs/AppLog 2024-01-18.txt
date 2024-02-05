@@ -1,0 +1,433 @@
+2024-01-18 15:43:36.164 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2024-01-18 15:43:36.165 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2024-01-18 15:43:36.165 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2024-01-18 15:43:36.165 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2024-01-18 15:43:36.165 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2024-01-18 15:43:36.165 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2024-01-18 15:43:36.474 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("lastReadedPage", "siderBarMinimized", "font", "categories", "count")
+2024-01-18 15:43:36.474 - Info - "Check table (Annotation) OK."
+2024-01-18 15:43:36.474 - Info - "Check table (Category) OK."
+2024-01-18 15:43:36.474 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "syncTime", "id")
+2024-01-18 15:43:36.475 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("guid", "usn", "id", "type")
+2024-01-18 15:43:36.475 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "usn", "type")
+2024-01-18 15:43:36.475 - Info - "Check table (Tag) OK."
+2024-01-18 15:43:36.475 - Info - "Check table (Resource) OK."
+2024-01-18 15:43:47.033 - Info - open document: "E:/Books & PDFs/Books/Introduction to Computation and Programming Using Python (John V. Guttag) (Z-Library).pdf" 27  ms
+2024-01-18 15:43:47.458 - Info - initialize reading for: "E:/Books & PDFs/Books/Introduction to Computation and Programming Using Python (John V. Guttag) (Z-Library).pdf" 424  ms
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "ffff00"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "00ff00"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "00ffff"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "ff00ff"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "0000ff"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "ff0000"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "000080"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "008000"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "808000"
+2024-01-18 15:43:47.612 - Warning - unsupported shortcut name: "c0c0c0"
+2024-01-18 15:49:24.691 - Info - Zhi::Application::NoteService::newAnnotation id:891, document Id:660, start point:38QPointF(68.1198,99.1198), canvas:Marker(QVariant(QRectF, QRectF(0,0 71.405x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:49:24.963 - Info - Zhi::Application::NoteService::changeNote id: 891
+2024-01-18 15:49:33.271 - Info - Zhi::Application::NoteService::newAnnotation id:892, document Id:660, start point:38QPointF(149.318,112.756), canvas:Marker(QVariant(QRectF, QRectF(0,0 55.9091x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:49:33.697 - Info - Zhi::Application::NoteService::changeNote id: 892
+2024-01-18 15:50:20.313 - Info - Zhi::Application::NoteService::newAnnotation id:893, document Id:660, start point:38QPointF(392.293,128.872), canvas:Marker(QVariant(QRectF, QRectF(0,0 120.992x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:50:22.863 - Info - Zhi::Application::NoteService::changeNote id: 893
+2024-01-18 15:50:29.802 - Info - Zhi::Application::NoteService::changeNote id: 893
+2024-01-18 15:51:40.306 - Info - Zhi::Application::NoteService::newAnnotation id:894, document Id:660, start point:38QPointF(77.4174,151.946), canvas:Marker(QVariant(QRectF, QRectF(0,0 468.099x36.6942)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:51:54.691 - Info - Zhi::Application::NoteService::changeNote id: 894
+2024-01-18 15:52:06.695 - Info - Zhi::Application::NoteService::changeNote id: 894
+2024-01-18 15:52:08.943 - Info - Zhi::Application::NoteService::insertMarker id: 894
+2024-01-18 15:52:28.097 - Info - Zhi::Application::NoteService::changeNote id: 894
+2024-01-18 15:52:37.484 - Info - Zhi::Application::NoteService::changeNote id: 893
+2024-01-18 15:53:46.249 - Info - Zhi::Application::NoteService::newAnnotation id:895, document Id:660, start point:38QPointF(374.318,180.938), canvas:Marker(QVariant(QRectF, QRectF(0,0 70.7851x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:54:34.982 - Info - Zhi::Application::NoteService::changeNote id: 895
+2024-01-18 15:54:49.670 - Info - Zhi::Application::NoteService::newAnnotation id:896, document Id:660, start point:38QPointF(176.591,232.384), canvas:Marker(QVariant(QRectF, QRectF(0,0 32.3554x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:54:50.131 - Info - Zhi::Application::NoteService::changeNote id: 896
+2024-01-18 15:54:55.950 - Info - Zhi::Application::NoteService::newAnnotation id:897, document Id:660, start point:38QPointF(91.6736,266.616), canvas:Marker(QVariant(QRectF, QRectF(0,0 50.3306x279.05)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:54:56.207 - Info - Zhi::Application::NoteService::changeNote id: 897
+2024-01-18 15:55:11.064 - Info - Zhi::Application::NoteService::changeNote id: 897
+2024-01-18 15:55:38.825 - Info - Zhi::Application::NoteService::newAnnotation id:898, document Id:660, start point:38QPointF(93.5331,581.351), canvas:Marker(QVariant(QRectF, QRectF(0,0 443.926x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:55:39.108 - Info - Zhi::Application::NoteService::changeNote id: 898
+2024-01-18 15:56:23.750 - Info - Zhi::Application::NoteService::newAnnotation id:899, document Id:660, start point:39QPointF(69.3595,123.421), canvas:Marker(QVariant(QRectF, QRectF(0,0 468.099x32.9752)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 15:56:24.122 - Info - Zhi::Application::NoteService::changeNote id: 899
+2024-01-18 16:01:43.789 - Info - Zhi::Application::NoteService::newAnnotation id:900, document Id:660, start point:39QPointF(85.4752,284.438), canvas:Marker(QVariant(QRectF, QRectF(0,0 84.4215x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:02:22.011 - Info - Zhi::Application::NoteService::changeNote id: 900
+2024-01-18 16:02:31.178 - Info - Zhi::Application::NoteService::newAnnotation id:901, document Id:660, start point:39QPointF(285.682,393.529), canvas:Marker(QVariant(QRectF, QRectF(0,0 39.1736x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:02:32.245 - Info - Zhi::Application::NoteService::changeNote id: 901
+2024-01-18 16:02:46.851 - Info - Zhi::Application::NoteService::newAnnotation id:902, document Id:660, start point:40QPointF(96.6322,182.773), canvas:Marker(QVariant(QRectF, QRectF(0,0 117.893x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:02:51.625 - Info - Zhi::Application::NoteService::changeNote id: 902
+2024-01-18 16:02:52.758 - Info - Zhi::Application::NoteService::newAnnotation id:903, document Id:660, start point:40QPointF(152.417,151.161), canvas:Marker(QVariant(QRectF, QRectF(0,0 44.1322x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:03:00.823 - Info - Zhi::Application::NoteService::changeNote id: 903
+2024-01-18 16:03:55.350 - Info - Zhi::Application::NoteService::newAnnotation id:904, document Id:660, start point:40QPointF(118.326,201.508), canvas:Marker(QVariant(QRectF, QRectF(0,0 374.504x31.1157)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:04:27.540 - Info - Zhi::Application::NoteService::changeNote id: 904
+2024-01-18 16:04:33.677 - Info - Zhi::Application::NoteService::newAnnotation id:905, document Id:660, start point:40QPointF(94.1529,236.698), canvas:Marker(QVariant(QRectF, QRectF(0,0 33.595x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:04:49.705 - Info - Zhi::Application::NoteService::changeNote id: 905
+2024-01-18 16:04:56.841 - Info - Zhi::Application::NoteService::changeNote id: 904
+2024-01-18 16:05:18.764 - Info - Zhi::Application::NoteService::newAnnotation id:906, document Id:660, start point:40QPointF(118.946,270.31), canvas:Marker(QVariant(QRectF, QRectF(0,0 378.223x32.3554)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:05:24.080 - Info - Zhi::Application::NoteService::changeNote id: 906
+2024-01-18 16:05:35.745 - Info - Zhi::Application::NoteService::newAnnotation id:907, document Id:660, start point:40QPointF(99.1116,303.64), canvas:Marker(QVariant(QRectF, QRectF(0,0 33.595x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:05:49.881 - Info - Zhi::Application::NoteService::changeNote id: 907
+2024-01-18 16:06:30.721 - Info - Zhi::Application::NoteService::newAnnotation id:908, document Id:660, start point:39QPointF(306.756,537.331), canvas:Marker(QVariant(QRectF, QRectF(0,0 251.157x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:06:33.106 - Info - Zhi::Application::NoteService::changeNote id: 908
+2024-01-18 16:07:23.687 - Info - Zhi::Application::NoteService::changeNote id: 908
+2024-01-18 16:07:37.594 - Info - Zhi::Application::NoteService::newAnnotation id:909, document Id:660, start point:39QPointF(69.3595,550.347), canvas:Marker(QVariant(QRectF, QRectF(0,0 197.851x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:07:43.197 - Info - Zhi::Application::NoteService::changeNote id: 909
+2024-01-18 16:07:46.763 - Info - Zhi::Application::NoteService::changeNote id: 908
+2024-01-18 16:08:01.812 - Info - Zhi::Application::NoteService::changeNote id: 909
+2024-01-18 16:08:22.081 - Info - Zhi::Application::NoteService::newAnnotation id:910, document Id:660, start point:40QPointF(118.946,97.8554), canvas:Marker(QVariant(QRectF, QRectF(0,0 198.471x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:08:39.796 - Info - Zhi::Application::NoteService::changeNote id: 910
+2024-01-18 16:09:12.310 - Info - Zhi::Application::NoteService::newAnnotation id:911, document Id:660, start point:40QPointF(127.004,401.574), canvas:Marker(QVariant(QRectF, QRectF(0,0 123.471x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:09:28.005 - Info - Zhi::Application::NoteService::changeNote id: 911
+2024-01-18 16:09:37.310 - Info - Zhi::Application::NoteService::newAnnotation id:912, document Id:660, start point:40QPointF(371.839,407.293), canvas:Marker(QVariant(QRectF, QRectF(0,0 105.496x18.0992)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:09:37.939 - Info - Zhi::Application::NoteService::changeNote id: 912
+2024-01-18 16:09:41.932 - Info - Zhi::Application::NoteService::replaceMarker id: 912 , index: 1 , marker: Marker(QVariant(QLineF, QLineF(QPointF(81.8802,13.0785),QPointF(97.9959,10.5992))),Zhi::Domain::Marker::NoLine,QPen(20,QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern),SolidLine,32,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:09:45.947 - Info - Zhi::Application::NoteService::handle , parent id:661, index:40
+2024-01-18 16:09:49.425 - Info - Zhi::Application::NoteService::newAnnotation id:913, document Id:660, start point:40QPointF(368.12,402.194), canvas:Marker(QVariant(QRectF, QRectF(0,0 119.752x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:10:31.913 - Info - Zhi::Application::NoteService::changeNote id: 913
+2024-01-18 16:10:38.982 - Info - Zhi::Application::NoteService::changeNote id: 913
+2024-01-18 16:12:14.696 - Info - Zhi::Application::NoteService::newAnnotation id:914, document Id:660, start point:40QPointF(127.004,525.541), canvas:Marker(QVariant(QRectF, QRectF(0,0 194.132x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:12:25.405 - Info - Zhi::Application::NoteService::changeNote id: 914
+2024-01-18 16:12:31.292 - Info - Zhi::Application::NoteService::changeNote id: 914
+2024-01-18 16:13:08.335 - Info - Zhi::Application::NoteService::newAnnotation id:915, document Id:660, start point:40QPointF(74.938,655.227), canvas:Marker(QVariant(QRectF, QRectF(0,0 466.86x31.7355)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:13:29.191 - Info - Zhi::Application::NoteService::changeNote id: 915
+2024-01-18 16:15:43.155 - Info - Zhi::Application::NoteService::newAnnotation id:916, document Id:660, start point:41QPointF(70.5992,369.471), canvas:Marker(QVariant(QRectF, QRectF(0,0 465.62x34.2149)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:15:43.408 - Info - Zhi::Application::NoteService::changeNote id: 916
+2024-01-18 16:16:34.573 - Info - Zhi::Application::NoteService::newAnnotation id:917, document Id:660, start point:41QPointF(71.219,420.298), canvas:Marker(QVariant(QRectF, QRectF(0,0 461.901x33.595)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:16:52.295 - Info - Zhi::Application::NoteService::changeNote id: 917
+2024-01-18 16:19:05.333 - Info - Zhi::Application::NoteService::newAnnotation id:918, document Id:660, start point:41QPointF(625.971,581.314), canvas:Marker(QVariant(QRectF, QRectF(0,0 56.5289x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:19:08.534 - Info - Zhi::Application::NoteService::handle , parent id:661, index:45
+2024-01-18 16:19:17.259 - Info - Zhi::Application::NoteService::newAnnotation id:919, document Id:660, start point:42QPointF(66.9421,-341.43), canvas:Marker(QVariant(QPolygonF, QPolygonF(QPointF(0,0)QPointF(0,0)QPointF(0,0)QPointF(539.876,0)QPointF(539.876,0)QPointF(539.876,0)QPointF(539.876,547.314)QPointF(539.876,547.314)QPointF(539.876,547.314)QPointF(0,547.314)QPointF(0,547.314)QPointF(0,547.314))),Zhi::Domain::Marker::AllEdges,QPen(2,QBrush(QColor(ARGB 1, 1, 0, 0),SolidPattern),SolidLine,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:19:27.616 - Info - Zhi::Application::NoteService::changeNote id: 919
+2024-01-18 16:19:48.146 - Info - Zhi::Application::NoteService::newAnnotation id:920, document Id:660, start point:37QPointF(65.0826,-1337.44), canvas:Marker(QVariant(QPolygonF, QPolygonF(QPointF(0,0)QPointF(0,0)QPointF(0,0)QPointF(541.116,0)QPointF(541.116,0)QPointF(541.116,0)QPointF(541.116,1584.3)QPointF(541.116,1584.3)QPointF(541.116,1584.3)QPointF(0,1584.3)QPointF(0,1584.3)QPointF(0,1584.3))),Zhi::Domain::Marker::AllEdges,QPen(2,QBrush(QColor(ARGB 1, 1, 0, 0),SolidPattern),SolidLine,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:19:53.634 - Info - Zhi::Application::NoteService::changeNote id: 920
+2024-01-18 16:19:56.860 - Info - Zhi::Application::NoteService::changeNote id: 920
+2024-01-18 16:20:38.146 - Info - Zhi::Application::NoteService::newAnnotation id:921, document Id:660, start point:42QPointF(72.4587,208.921), canvas:Marker(QVariant(QRectF, QRectF(0,0 470.579x47.2314)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:21:12.003 - Info - Zhi::Application::NoteService::changeNote id: 921
+2024-01-18 16:21:12.887 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:21:26.911 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:21:30.190 - Info - Zhi::Application::NoteService::removeMarker id: 921 , index: 5
+2024-01-18 16:21:33.821 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:21:34.094 - Info - Zhi::Application::NoteService::removeMarker id: 921 , index: 5
+2024-01-18 16:21:37.793 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:21:38.709 - Info - Zhi::Application::NoteService::removeMarker id: 921 , index: 5
+2024-01-18 16:21:43.130 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:21:43.813 - Info - Zhi::Application::NoteService::removeMarker id: 921 , index: 5
+2024-01-18 16:21:48.207 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:21:48.566 - Info - Zhi::Application::NoteService::removeMarker id: 921 , index: 5
+2024-01-18 16:21:52.200 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:22:01.760 - Info - Zhi::Application::NoteService::removeMarker id: 921 , index: 5
+2024-01-18 16:22:07.939 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:22:11.294 - Info - Zhi::Application::NoteService::newAnnotation id:922, document Id:660, start point:42QPointF(645.186,329.029), canvas:Marker(QVariant(QRectF, QRectF(0,0 21.8182x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:22:12.599 - Info - Zhi::Application::NoteService::changeNote id: 922
+2024-01-18 16:22:14.627 - Info - Zhi::Application::NoteService::replaceMarker id: 922 , index: 0 , marker: Marker(QVariant(QLineF, QLineF(QPointF(7.5,9.5),QPointF(-16.0537,-16.5331))),Zhi::Domain::Marker::NoLine,QPen(20,QBrush(QColor(ARGB 0.501961, 1, 0, 1),SolidPattern),SolidLine,32,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:22:16.434 - Fatal - Succeed to write minidump, dump path: C:/Users/boguagua/Documents/Zhizhi Reader\Crashes\/95d0959d-5b0a-4178-a00e-3b5739fb5911
+
+2024-01-18 16:22:23.268 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2024-01-18 16:22:23.269 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2024-01-18 16:22:23.269 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2024-01-18 16:22:23.269 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2024-01-18 16:22:23.269 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2024-01-18 16:22:23.269 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2024-01-18 16:22:23.302 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("font", "siderBarMinimized", "categories", "lastReadedPage", "count")
+2024-01-18 16:22:23.302 - Info - "Check table (Annotation) OK."
+2024-01-18 16:22:23.303 - Info - "Check table (Category) OK."
+2024-01-18 16:22:23.303 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("syncTime", "id", "updateCount")
+2024-01-18 16:22:23.303 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("usn", "type", "id", "guid")
+2024-01-18 16:22:23.303 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "type", "guid")
+2024-01-18 16:22:23.303 - Info - "Check table (Tag) OK."
+2024-01-18 16:22:23.303 - Info - "Check table (Resource) OK."
+2024-01-18 16:22:26.768 - Info - open document: "E:/Books & PDFs/Books/Introduction to Computation and Programming Using Python (John V. Guttag) (Z-Library).pdf" 17  ms
+2024-01-18 16:22:27.039 - Info - initialize reading for: "E:/Books & PDFs/Books/Introduction to Computation and Programming Using Python (John V. Guttag) (Z-Library).pdf" 270  ms
+2024-01-18 16:22:27.104 - Warning - unsupported shortcut name: "ffff00"
+2024-01-18 16:22:27.104 - Warning - unsupported shortcut name: "00ff00"
+2024-01-18 16:22:27.104 - Warning - unsupported shortcut name: "00ffff"
+2024-01-18 16:22:27.105 - Warning - unsupported shortcut name: "ff00ff"
+2024-01-18 16:22:27.105 - Warning - unsupported shortcut name: "0000ff"
+2024-01-18 16:22:27.105 - Warning - unsupported shortcut name: "ff0000"
+2024-01-18 16:22:27.105 - Warning - unsupported shortcut name: "000080"
+2024-01-18 16:22:27.105 - Warning - unsupported shortcut name: "008000"
+2024-01-18 16:22:27.105 - Warning - unsupported shortcut name: "808000"
+2024-01-18 16:22:27.105 - Warning - unsupported shortcut name: "c0c0c0"
+2024-01-18 16:22:32.478 - Info - Zhi::Application::NoteService::handle , parent id:661, index:48
+2024-01-18 16:22:59.275 - Info - Zhi::Application::NoteService::newAnnotation id:923, document Id:660, start point:42QPointF(76.9922,305.745), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:22:59.878 - Info - Zhi::Application::NoteService::changeNote id: 923
+2024-01-18 16:23:01.653 - Info - Zhi::Application::NoteService::changeNote id: 923
+2024-01-18 16:23:08.989 - Info - Zhi::Application::NoteService::handle , parent id:661, index:48
+2024-01-18 16:23:36.095 - Info - Zhi::Application::NoteService::insertMarker id: 921
+2024-01-18 16:23:37.829 - Info - Zhi::Application::NoteService::removeMarker id: 921 , index: 6
+2024-01-18 16:23:42.713 - Info - Zhi::Application::NoteService::newAnnotation id:924, document Id:660, start point:42QPointF(551.591,297.417), canvas:Marker(QVariant(QRectF, QRectF(0,0 31.1157x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:23:57.545 - Info - Zhi::Application::NoteService::changeNote id: 924
+2024-01-18 16:24:13.100 - Info - Zhi::Application::NoteService::newAnnotation id:925, document Id:660, start point:42QPointF(90.4959,339.149), canvas:Marker(QVariant(QPolygonF, QPolygonF(QPointF(0,0)QPointF(0,0)QPointF(0,0)QPointF(434.504,0)QPointF(434.504,0)QPointF(434.504,0)QPointF(434.504,115.289)QPointF(434.504,115.289)QPointF(434.504,115.289)QPointF(0,115.289)QPointF(0,115.289)QPointF(0,115.289))),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:24:29.539 - Info - Zhi::Application::NoteService::changeNote id: 925
+2024-01-18 16:24:31.192 - Info - Zhi::Application::NoteService::newAnnotation id:926, document Id:660, start point:42QPointF(578.926,220.14), canvas:Marker(QVariant(QPolygonF, QPolygonF(QPointF(0,0)QPointF(0,0)QPointF(0,0)QPointF(131.405,0)QPointF(131.405,0)QPointF(131.405,0)QPointF(131.405,231.818)QPointF(131.405,231.818)QPointF(131.405,231.818)QPointF(0,231.818)QPointF(0,231.818)QPointF(0,231.818))),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:24:33.438 - Info - Zhi::Application::NoteService::handle , parent id:661, index:50
+2024-01-18 16:24:35.826 - Info - Zhi::Application::NoteService::changeNote id: 921
+2024-01-18 16:24:57.500 - Info - Zhi::Application::NoteService::newAnnotation id:927, document Id:660, start point:42QPointF(153.792,517.26), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:25:08.298 - Info - Zhi::Application::NoteService::changeNote id: 927
+2024-01-18 16:25:10.160 - Info - Zhi::Application::NoteService::changeNote id: 927
+2024-01-18 16:25:32.873 - Info - Zhi::Application::NoteService::newAnnotation id:928, document Id:660, start point:42QPointF(88.9922,610.245), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:25:45.847 - Info - Zhi::Application::NoteService::changeNote id: 928
+2024-01-18 16:27:04.857 - Info - Zhi::Application::NoteService::newAnnotation id:929, document Id:660, start point:43QPointF(76.9922,88.2451), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:27:05.418 - Info - Zhi::Application::NoteService::changeNote id: 929
+2024-01-18 16:27:06.634 - Info - Zhi::Application::NoteService::newAnnotation id:930, document Id:660, start point:43QPointF(304.798,71.7451), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:27:08.092 - Info - Zhi::Application::NoteService::changeNote id: 930
+2024-01-18 16:27:09.030 - Info - Zhi::Application::NoteService::newAnnotation id:931, document Id:660, start point:43QPointF(88.9922,146.76), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:27:14.208 - Info - Zhi::Application::NoteService::changeNote id: 931
+2024-01-18 16:27:15.824 - Info - Zhi::Application::NoteService::newAnnotation id:932, document Id:660, start point:42QPointF(234.133,664.245), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:27:17.114 - Info - Zhi::Application::NoteService::changeNote id: 932
+2024-01-18 16:27:17.812 - Info - Zhi::Application::NoteService::newAnnotation id:933, document Id:660, start point:42QPointF(76.9922,681.495), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:27:18.226 - Info - Zhi::Application::NoteService::changeNote id: 933
+2024-01-18 16:27:37.268 - Info - Zhi::Application::NoteService::changeNote id: 932
+2024-01-18 16:27:47.320 - Info - Zhi::Application::NoteService::changeNote id: 932
+2024-01-18 16:27:51.464 - Info - Zhi::Application::NoteService::changeNote id: 932
+2024-01-18 16:29:55.538 - Info - Zhi::Application::NoteService::newAnnotation id:934, document Id:660, start point:43QPointF(73.0785,337.074), canvas:Marker(QVariant(QRectF, QRectF(0,0 188.554x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:30:00.880 - Info - Zhi::Application::NoteService::changeNote id: 934
+2024-01-18 16:30:24.525 - Info - Zhi::Application::NoteService::changeNote id: 934
+2024-01-18 16:30:31.789 - Info - Zhi::Application::NoteService::newAnnotation id:935, document Id:660, start point:43QPointF(74.3182,399.678), canvas:Marker(QVariant(QRectF, QRectF(0,0 120.372x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:30:40.304 - Info - Zhi::Application::NoteService::changeNote id: 935
+2024-01-18 16:31:53.828 - Info - Zhi::Application::NoteService::newAnnotation id:936, document Id:660, start point:43QPointF(263.988,435.008), canvas:Marker(QVariant(QRectF, QRectF(0,0 89.3802x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:32:00.428 - Info - Zhi::Application::NoteService::changeNote id: 936
+2024-01-18 16:33:00.163 - Info - Zhi::Application::NoteService::newAnnotation id:937, document Id:660, start point:44QPointF(74.938,410.963), canvas:Marker(QVariant(QRectF, QRectF(0,0 467.479x37.314)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:33:00.427 - Info - Zhi::Application::NoteService::changeNote id: 937
+2024-01-18 16:33:03.802 - Info - Zhi::Application::NoteService::newAnnotation id:938, document Id:660, start point:44QPointF(82.438,309.992), canvas:Marker(QVariant(QPolygonF, QPolygonF(QPointF(0,0)QPointF(0,0)QPointF(0,0)QPointF(445.661,0)QPointF(445.661,0)QPointF(445.661,0)QPointF(445.661,70.6612)QPointF(445.661,70.6612)QPointF(445.661,70.6612)QPointF(0,70.6612)QPointF(0,70.6612)QPointF(0,70.6612))),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:33:09.797 - Info - Zhi::Application::NoteService::changeNote id: 938
+2024-01-18 16:33:15.877 - Info - Zhi::Application::NoteService::newAnnotation id:939, document Id:660, start point:44QPointF(81.8182,523.215), canvas:Marker(QVariant(QPolygonF, QPolygonF(QPointF(0,0)QPointF(0,0)QPointF(0,0)QPointF(233.058,0)QPointF(233.058,0)QPointF(233.058,0)QPointF(233.058,78.719)QPointF(233.058,78.719)QPointF(233.058,78.719)QPointF(0,78.719)QPointF(0,78.719)QPointF(0,78.719))),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:33:16.519 - Info - Zhi::Application::NoteService::changeNote id: 939
+2024-01-18 16:35:00.764 - Info - Zhi::Application::NoteService::newAnnotation id:940, document Id:660, start point:44QPointF(102.273,664.537), canvas:Marker(QVariant(QPolygonF, QPolygonF(QPointF(0,0)QPointF(0,0)QPointF(0,0)QPointF(90.4959,0)QPointF(90.4959,0)QPointF(90.4959,0)QPointF(90.4959,8.05785)QPointF(90.4959,8.05785)QPointF(90.4959,8.05785)QPointF(0,8.05785)QPointF(0,8.05785)QPointF(0,8.05785))),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 16:35:01.701 - Info - Zhi::Application::NoteService::handle , parent id:661, index:63
+2024-01-18 16:35:05.756 - Info - Zhi::Application::NoteService::newAnnotation id:941, document Id:660, start point:44QPointF(102.831,656.897), canvas:Marker(QVariant(QRectF, QRectF(0,0 90.6198x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:35:08.937 - Info - Zhi::Application::NoteService::changeNote id: 941
+2024-01-18 16:35:09.509 - Info - Zhi::Application::NoteService::changeNote id: 941
+2024-01-18 16:35:10.453 - Info - Zhi::Application::NoteService::handle , parent id:661, index:63
+2024-01-18 16:35:18.136 - Info - Zhi::Application::NoteService::newAnnotation id:942, document Id:660, start point:44QPointF(229.277,656.897), canvas:Marker(QVariant(QRectF, QRectF(0,0 98.0579x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:35:25.067 - Info - Zhi::Application::NoteService::changeNote id: 942
+2024-01-18 16:36:07.330 - Info - Zhi::Application::NoteService::newAnnotation id:943, document Id:660, start point:45QPointF(426.384,121.347), canvas:Marker(QVariant(QRectF, QRectF(0,0 63.3471x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:36:08.234 - Info - Zhi::Application::NoteService::changeNote id: 943
+2024-01-18 16:36:38.998 - Info - Zhi::Application::NoteService::changeNote id: 943
+2024-01-18 16:37:41.664 - Info - Zhi::Application::NoteService::newAnnotation id:944, document Id:660, start point:45QPointF(301.178,139.322), canvas:Marker(QVariant(QRectF, QRectF(0,0 97.438x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 16:38:02.971 - Info - Zhi::Application::NoteService::changeNote id: 944
+2024-01-18 17:45:26.029 - Info - Zhi::Application::NoteService::newAnnotation id:945, document Id:660, start point:45QPointF(76.9922,138.495), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 17:45:27.066 - Info - Zhi::Application::NoteService::handle , parent id:661, index:66
+2024-01-18 17:45:29.064 - Info - Zhi::Application::NoteService::newAnnotation id:946, document Id:660, start point:45QPointF(76.9922,155.745), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 17:45:37.014 - Info - Zhi::Application::NoteService::changeNote id: 946
+2024-01-18 17:45:45.558 - Info - Zhi::Application::NoteService::newAnnotation id:947, document Id:660, start point:45QPointF(401.177,138.495), canvas:Marker(QVariant(Zhi::Domain::TextRects, ),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern))
+2024-01-18 17:45:45.852 - Info - Zhi::Application::NoteService::changeNote id: 947
+2024-01-18 17:46:02.733 - Info - Zhi::Application::NoteService::newAnnotation id:948, document Id:660, start point:45QPointF(136.302,192.008), canvas:Marker(QVariant(QRectF, QRectF(0,0 251.157x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:46:05.095 - Info - Zhi::Application::NoteService::changeNote id: 948
+2024-01-18 17:46:41.269 - Info - Zhi::Application::NoteService::changeNote id: 946
+2024-01-18 17:47:07.591 - Info - Zhi::Application::NoteService::newAnnotation id:949, document Id:660, start point:45QPointF(71.219,223.76), canvas:Marker(QVariant(QRectF, QRectF(0,0 465x31.1157)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:47:16.731 - Info - Zhi::Application::NoteService::changeNote id: 949
+2024-01-18 17:47:38.405 - Info - Zhi::Application::NoteService::newAnnotation id:950, document Id:660, start point:45QPointF(67.5,320.455), canvas:Marker(QVariant(QRectF, QRectF(0,0 468.099x31.7355)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:47:38.746 - Info - Zhi::Application::NoteService::changeNote id: 950
+2024-01-18 17:47:49.289 - Info - Zhi::Application::NoteService::insertMarker id: 950
+2024-01-18 17:47:52.751 - Info - Zhi::Application::NoteService::newAnnotation id:951, document Id:660, start point:45QPointF(113.988,478.512), canvas:Marker(QVariant(QRectF, QRectF(0,0 243.719x41.0331)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:47:53.000 - Info - Zhi::Application::NoteService::changeNote id: 951
+2024-01-18 17:48:02.666 - Info - Zhi::Application::NoteService::insertMarker id: 950
+2024-01-18 17:48:16.697 - Info - Zhi::Application::NoteService::replaceMarker id: 950 , index: 3 , marker: Marker(QVariant(QLineF, QLineF(QPointF(336.632,26.7149),QPointF(409.773,23.6157))),Zhi::Domain::Marker::NoLine,QPen(20,QBrush(QColor(ARGB 0.501961, 1, 0, 1),SolidPattern),SolidLine,32,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:48:21.820 - Info - Zhi::Application::NoteService::replaceMarker id: 950 , index: 3 , marker: Marker(QVariant(QLineF, QLineF(QPointF(336.632,26.7149),QPointF(411.012,26.7149))),Zhi::Domain::Marker::NoLine,QPen(20,QBrush(QColor(ARGB 0.501961, 1, 0, 1),SolidPattern),SolidLine,32,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:48:34.792 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2024-01-18 17:48:34.792 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2024-01-18 17:48:34.792 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2024-01-18 17:48:34.792 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2024-01-18 17:48:34.792 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2024-01-18 17:48:34.792 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2024-01-18 17:48:34.824 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("categories", "siderBarMinimized", "lastReadedPage", "count", "font")
+2024-01-18 17:48:34.824 - Info - "Check table (Annotation) OK."
+2024-01-18 17:48:34.825 - Info - "Check table (Category) OK."
+2024-01-18 17:48:34.825 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "syncTime", "updateCount")
+2024-01-18 17:48:34.825 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("id", "guid", "type", "usn")
+2024-01-18 17:48:34.825 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "type", "usn")
+2024-01-18 17:48:34.825 - Info - "Check table (Tag) OK."
+2024-01-18 17:48:34.825 - Info - "Check table (Resource) OK."
+2024-01-18 17:48:37.250 - Info - open document: "E:/Books & PDFs/Books/Introduction to Computation and Programming Using Python (John V. Guttag) (Z-Library).pdf" 23  ms
+2024-01-18 17:48:37.636 - Info - initialize reading for: "E:/Books & PDFs/Books/Introduction to Computation and Programming Using Python (John V. Guttag) (Z-Library).pdf" 386  ms
+2024-01-18 17:48:37.679 - Warning - unsupported shortcut name: "ffff00"
+2024-01-18 17:48:37.679 - Warning - unsupported shortcut name: "00ff00"
+2024-01-18 17:48:37.679 - Warning - unsupported shortcut name: "00ffff"
+2024-01-18 17:48:37.679 - Warning - unsupported shortcut name: "ff00ff"
+2024-01-18 17:48:37.679 - Warning - unsupported shortcut name: "0000ff"
+2024-01-18 17:48:37.679 - Warning - unsupported shortcut name: "ff0000"
+2024-01-18 17:48:37.679 - Warning - unsupported shortcut name: "000080"
+2024-01-18 17:48:37.680 - Warning - unsupported shortcut name: "008000"
+2024-01-18 17:48:37.680 - Warning - unsupported shortcut name: "808000"
+2024-01-18 17:48:37.680 - Warning - unsupported shortcut name: "c0c0c0"
+2024-01-18 17:48:50.700 - Info - Zhi::Application::NoteService::newAnnotation id:952, document Id:660, start point:45QPointF(635.888,340.769), canvas:Marker(QVariant(QRectF, QRectF(0,0 28.6364x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:48:56.163 - Info - Zhi::Application::NoteService::changeNote id: 952
+2024-01-18 17:49:20.250 - Info - Zhi::Application::NoteService::changeNote id: 949
+2024-01-18 17:50:36.630 - Info - Zhi::Application::NoteService::newAnnotation id:953, document Id:660, start point:45QPointF(184.029,432.504), canvas:Marker(QVariant(QRectF, QRectF(0,0 76.3636x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:50:40.697 - Info - Zhi::Application::NoteService::changeNote id: 953
+2024-01-18 17:50:49.226 - Info - Zhi::Application::NoteService::newAnnotation id:954, document Id:660, start point:45QPointF(194.566,529.818), canvas:Marker(QVariant(QRectF, QRectF(0,0 101.777x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:50:49.670 - Info - Zhi::Application::NoteService::changeNote id: 954
+2024-01-18 17:55:19.370 - Info - Zhi::Application::NoteService::newAnnotation id:955, document Id:660, start point:45QPointF(74.938,564.05), canvas:Marker(QVariant(QRectF, QRectF(0,0 468.719x32.9752)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 17:55:44.897 - Info - Zhi::Application::NoteService::changeNote id: 955
+2024-01-18 17:56:07.893 - Info - Zhi::Application::NoteService::changeNote id: 953
+2024-01-18 17:56:15.028 - Info - Zhi::Application::NoteService::changeNote id: 953
+2024-01-18 19:20:55.699 - Info - Zhi::Application::NoteService::newAnnotation id:956, document Id:660, start point:46QPointF(89.1942,97.1612), canvas:Marker(QVariant(QRectF, QRectF(0,0 34.8347x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:20:56.046 - Info - Zhi::Application::NoteService::changeNote id: 956
+2024-01-18 19:21:22.594 - Info - Zhi::Application::NoteService::newAnnotation id:957, document Id:660, start point:46QPointF(84.8554,227.326), canvas:Marker(QVariant(QRectF, QRectF(0,0 36.6942x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:21:23.755 - Info - Zhi::Application::NoteService::changeNote id: 957
+2024-01-18 19:21:24.819 - Info - Zhi::Application::NoteService::newAnnotation id:958, document Id:660, start point:46QPointF(87.3347,249.64), canvas:Marker(QVariant(QRectF, QRectF(0,0 39.7934x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:21:25.390 - Info - Zhi::Application::NoteService::changeNote id: 958
+2024-01-18 19:21:26.451 - Info - Zhi::Application::NoteService::newAnnotation id:959, document Id:660, start point:46QPointF(86.7149,196.335), canvas:Marker(QVariant(QRectF, QRectF(0,0 27.3967x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:21:26.763 - Info - Zhi::Application::NoteService::changeNote id: 959
+2024-01-18 19:23:17.206 - Info - Zhi::Application::NoteService::newAnnotation id:960, document Id:660, start point:47QPointF(100.351,250.248), canvas:Marker(QVariant(QRectF, QRectF(0,0 378.843x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:23:17.613 - Info - Zhi::Application::NoteService::changeNote id: 960
+2024-01-18 19:23:39.960 - Info - Zhi::Application::NoteService::changeNote id: 960
+2024-01-18 19:23:40.351 - Info - Zhi::Application::NoteService::handle , parent id:661, index:80
+2024-01-18 19:23:42.993 - Info - Zhi::Application::NoteService::newAnnotation id:961, document Id:660, start point:47QPointF(94.1529,251.488), canvas:Marker(QVariant(QRectF, QRectF(0,0 388.76x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:24:18.930 - Info - Zhi::Application::NoteService::changeNote id: 961
+2024-01-18 19:26:04.171 - Info - Zhi::Application::NoteService::newAnnotation id:962, document Id:660, start point:47QPointF(237.955,386.612), canvas:Marker(QVariant(QRectF, QRectF(0,0 198.471x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:26:38.185 - Info - Zhi::Application::NoteService::changeNote id: 962
+2024-01-18 19:27:11.876 - Info - Zhi::Application::NoteService::newAnnotation id:963, document Id:660, start point:47QPointF(80.5165,432), canvas:Marker(QVariant(QRectF, QRectF(0,0 238.14x85.0413)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:27:12.173 - Info - Zhi::Application::NoteService::changeNote id: 963
+2024-01-18 19:27:43.444 - Info - Zhi::Application::NoteService::changeNote id: 963
+2024-01-18 19:27:53.981 - Info - Zhi::Application::NoteService::changeNote id: 963
+2024-01-18 19:28:41.747 - Info - Zhi::Application::NoteService::newAnnotation id:964, document Id:660, start point:47QPointF(69.9793,586.339), canvas:Marker(QVariant(QRectF, QRectF(0,0 463.76x47.2314)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:28:47.434 - Info - Zhi::Application::NoteService::changeNote id: 964
+2024-01-18 19:29:15.967 - Info - Zhi::Application::NoteService::changeNote id: 964
+2024-01-18 19:34:12.182 - Info - Zhi::Application::NoteService::newAnnotation id:965, document Id:660, start point:48QPointF(352.004,157.88), canvas:Marker(QVariant(QRectF, QRectF(0,0 124.091x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:34:38.712 - Info - Zhi::Application::NoteService::changeNote id: 965
+2024-01-18 19:34:57.011 - Info - Zhi::Application::NoteService::newAnnotation id:966, document Id:660, start point:48QPointF(68.7397,189.012), canvas:Marker(QVariant(QRectF, QRectF(0,0 456.942x29.876)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:34:57.328 - Info - Zhi::Application::NoteService::changeNote id: 966
+2024-01-18 19:35:38.792 - Info - Zhi::Application::NoteService::newAnnotation id:967, document Id:660, start point:48QPointF(100.351,255.814), canvas:Marker(QVariant(QRectF, QRectF(0,0 447.645x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:35:39.042 - Info - Zhi::Application::NoteService::changeNote id: 967
+2024-01-18 19:35:43.790 - Info - Zhi::Application::NoteService::newAnnotation id:968, document Id:660, start point:48QPointF(76.1777,225.583), canvas:Marker(QVariant(QRectF, QRectF(0,0 453.843x30.4959)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:35:53.137 - Info - Zhi::Application::NoteService::changeNote id: 968
+2024-01-18 19:36:26.313 - Info - Zhi::Application::NoteService::newAnnotation id:969, document Id:660, start point:48QPointF(281.343,272.55), canvas:Marker(QVariant(QRectF, QRectF(0,0 98.0579x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:36:32.168 - Info - Zhi::Application::NoteService::changeNote id: 969
+2024-01-18 19:36:58.574 - Info - Zhi::Application::NoteService::newAnnotation id:970, document Id:660, start point:48QPointF(146.219,390.318), canvas:Marker(QVariant(QRectF, QRectF(0,0 70.1653x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:36:59.058 - Info - Zhi::Application::NoteService::changeNote id: 970
+2024-01-18 19:37:05.772 - Info - Zhi::Application::NoteService::newAnnotation id:971, document Id:660, start point:48QPointF(75.5579,374.343), canvas:Marker(QVariant(QRectF, QRectF(0,0 463.76x32.3554)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:37:06.553 - Info - Zhi::Application::NoteService::changeNote id: 971
+2024-01-18 19:38:00.153 - Info - Zhi::Application::NoteService::insertMarker id: 971
+2024-01-18 19:38:01.770 - Info - Zhi::Application::NoteService::removeMarker id: 971 , index: 2
+2024-01-18 19:38:05.590 - Info - Zhi::Application::NoteService::insertMarker id: 971
+2024-01-18 19:38:09.669 - Info - Zhi::Application::NoteService::newAnnotation id:972, document Id:660, start point:48QPointF(643.946,397.136), canvas:Marker(QVariant(QRectF, QRectF(0,0 24.2975x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:38:28.923 - Info - Zhi::Application::NoteService::changeNote id: 972
+2024-01-18 19:38:47.215 - Info - Zhi::Application::NoteService::newAnnotation id:973, document Id:660, start point:48QPointF(173.492,488.872), canvas:Marker(QVariant(QRectF, QRectF(0,0 27.3967x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:38:47.641 - Info - Zhi::Application::NoteService::changeNote id: 973
+2024-01-18 19:39:01.489 - Info - Zhi::Application::NoteService::newAnnotation id:974, document Id:660, start point:48QPointF(198.905,504.368), canvas:Marker(QVariant(QRectF, QRectF(0,0 248.678x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:39:23.012 - Info - Zhi::Application::NoteService::changeNote id: 974
+2024-01-18 19:39:50.247 - Info - Zhi::Application::NoteService::newAnnotation id:975, document Id:660, start point:48QPointF(340.847,483.913), canvas:Marker(QVariant(QRectF, QRectF(0,0 86.281x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:40:08.154 - Info - Zhi::Application::NoteService::changeNote id: 975
+2024-01-18 19:40:26.684 - Info - Zhi::Application::NoteService::newAnnotation id:976, document Id:660, start point:48QPointF(79.2769,525.583), canvas:Marker(QVariant(QRectF, QRectF(0,0 456.322x31.7355)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:40:27.201 - Info - Zhi::Application::NoteService::changeNote id: 976
+2024-01-18 19:41:02.018 - Info - Zhi::Application::NoteService::newAnnotation id:977, document Id:660, start point:48QPointF(87.3347,610.5), canvas:Marker(QVariant(QRectF, QRectF(0,0 55.2893x41.6529)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:41:14.426 - Info - Zhi::Application::NoteService::changeNote id: 977
+2024-01-18 19:42:15.624 - Info - Zhi::Application::NoteService::newAnnotation id:978, document Id:660, start point:48QPointF(288.161,661.186), canvas:Marker(QVariant(QRectF, QRectF(0,0 94.3388x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:42:19.129 - Info - Zhi::Application::NoteService::changeNote id: 978
+2024-01-18 19:42:19.682 - Info - Zhi::Application::NoteService::changeNote id: 978
+2024-01-18 19:42:20.067 - Info - Zhi::Application::NoteService::handle , parent id:661, index:97
+2024-01-18 19:42:24.051 - Info - Zhi::Application::NoteService::newAnnotation id:979, document Id:660, start point:48QPointF(280.723,666.145), canvas:Marker(QVariant(QRectF, QRectF(0,0 93.0992x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:43:00.051 - Info - Zhi::Application::NoteService::changeNote id: 979
+2024-01-18 19:43:08.218 - Info - Zhi::Application::NoteService::changeNote id: 979
+2024-01-18 19:44:02.499 - Info - Zhi::Application::NoteService::newAnnotation id:980, document Id:660, start point:49QPointF(213.161,69.8512), canvas:Marker(QVariant(QRectF, QRectF(0,0 99.2975x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:44:12.645 - Info - Zhi::Application::NoteService::changeNote id: 980
+2024-01-18 19:44:35.789 - Info - Zhi::Application::NoteService::newAnnotation id:981, document Id:660, start point:48QPointF(101.591,659.326), canvas:Marker(QVariant(QRectF, QRectF(0,0 272.231x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:44:37.249 - Info - Zhi::Application::NoteService::changeNote id: 981
+2024-01-18 19:44:38.757 - Info - Zhi::Application::NoteService::newAnnotation id:982, document Id:660, start point:49QPointF(73.6983,86.5868), canvas:Marker(QVariant(QRectF, QRectF(0,0 208.388x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:44:39.130 - Info - Zhi::Application::NoteService::changeNote id: 982
+2024-01-18 19:44:44.193 - Info - Zhi::Application::NoteService::handle , parent id:661, index:100
+2024-01-18 19:44:47.202 - Info - Zhi::Application::NoteService::newAnnotation id:983, document Id:660, start point:49QPointF(69.3595,90.9256), canvas:Marker(QVariant(QRectF, QRectF(0,0 212.727x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:44:54.568 - Info - Zhi::Application::NoteService::changeNote id: 983
+2024-01-18 19:45:40.302 - Info - Zhi::Application::NoteService::newAnnotation id:984, document Id:660, start point:49QPointF(82.9959,109.041), canvas:Marker(QVariant(QRectF, QRectF(0,0 448.264x30.4959)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:46:00.884 - Info - Zhi::Application::NoteService::changeNote id: 984
+2024-01-18 19:46:46.922 - Info - Zhi::Application::NoteService::newAnnotation id:985, document Id:660, start point:49QPointF(184.649,346.917), canvas:Marker(QVariant(QRectF, QRectF(0,0 170.579x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:46:47.234 - Info - Zhi::Application::NoteService::changeNote id: 985
+2024-01-18 19:48:40.006 - Info - Zhi::Application::NoteService::newAnnotation id:986, document Id:660, start point:49QPointF(275.764,422.537), canvas:Marker(QVariant(QRectF, QRectF(0,0 60.2479x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:49:11.882 - Info - Zhi::Application::NoteService::changeNote id: 986
+2024-01-18 19:50:15.690 - Info - Zhi::Application::NoteService::newAnnotation id:987, document Id:660, start point:49QPointF(70.5992,487.14), canvas:Marker(QVariant(QRectF, QRectF(0,0 466.24x49.0909)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:50:34.076 - Info - Zhi::Application::NoteService::changeNote id: 987
+2024-01-18 19:51:36.300 - Info - Zhi::Application::NoteService::newAnnotation id:988, document Id:660, start point:49QPointF(231.136,567.579), canvas:Marker(QVariant(QRectF, QRectF(0,0 124.091x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:51:41.227 - Info - Zhi::Application::NoteService::changeNote id: 988
+2024-01-18 19:52:19.564 - Info - Zhi::Application::NoteService::newAnnotation id:989, document Id:660, start point:49QPointF(100.971,653.116), canvas:Marker(QVariant(QRectF, QRectF(0,0 354.669x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:52:23.488 - Info - Zhi::Application::NoteService::changeNote id: 989
+2024-01-18 19:53:02.977 - Info - Zhi::Application::NoteService::changeNote id: 986
+2024-01-18 19:53:08.881 - Info - Zhi::Application::NoteService::handle , parent id:661, index:106
+2024-01-18 19:53:11.187 - Info - Zhi::Application::NoteService::newAnnotation id:990, document Id:660, start point:49QPointF(100.971,652.496), canvas:Marker(QVariant(QRectF, QRectF(0,0 354.669x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:53:22.948 - Info - Zhi::Application::NoteService::changeNote id: 990
+2024-01-18 19:53:32.324 - Info - Zhi::Application::NoteService::newAnnotation id:991, document Id:660, start point:50QPointF(235.475,91.5331), canvas:Marker(QVariant(QRectF, QRectF(0,0 83.8017x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:53:37.781 - Info - Zhi::Application::NoteService::changeNote id: 991
+2024-01-18 19:53:48.457 - Info - Zhi::Application::NoteService::newAnnotation id:992, document Id:660, start point:50QPointF(99.1116,115.847), canvas:Marker(QVariant(QRectF, QRectF(0,0 415.413x30.4959)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:54:28.082 - Info - Zhi::Application::NoteService::changeNote id: 992
+2024-01-18 19:54:41.624 - Info - Zhi::Application::NoteService::insertMarker id: 992
+2024-01-18 19:54:57.584 - Info - Zhi::Application::NoteService::newAnnotation id:993, document Id:660, start point:50QPointF(102.211,148.698), canvas:Marker(QVariant(QRectF, QRectF(0,0 427.19x15.6198)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:55:16.820 - Info - Zhi::Application::NoteService::changeNote id: 993
+2024-01-18 19:56:10.806 - Info - Zhi::Application::NoteService::newAnnotation id:994, document Id:660, start point:50QPointF(100.971,234.855), canvas:Marker(QVariant(QRectF, QRectF(0,0 401.157x34.8347)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:56:23.026 - Info - Zhi::Application::NoteService::changeNote id: 994
+2024-01-18 19:56:27.136 - Info - Zhi::Application::NoteService::changeNote id: 993
+2024-01-18 19:56:36.358 - Info - Zhi::Application::NoteService::newAnnotation id:995, document Id:660, start point:50QPointF(481.55,214.88), canvas:Marker(QVariant(QRectF, QRectF(0,0 44.1322x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:56:36.877 - Info - Zhi::Application::NoteService::insertMarker id: 994
+2024-01-18 19:56:37.735 - Info - Zhi::Application::NoteService::changeNote id: 995
+2024-01-18 19:56:41.563 - Info - Zhi::Application::NoteService::newAnnotation id:996, document Id:660, start point:50QPointF(276.384,216.12), canvas:Marker(QVariant(QRectF, QRectF(0,0 230.083x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:56:41.782 - Info - Zhi::Application::NoteService::changeNote id: 996
+2024-01-18 19:57:30.646 - Info - Zhi::Application::NoteService::newAnnotation id:997, document Id:660, start point:50QPointF(216.26,274.384), canvas:Marker(QVariant(QRectF, QRectF(0,0 249.917x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:57:31.680 - Info - Zhi::Application::NoteService::changeNote id: 997
+2024-01-18 19:57:32.818 - Info - Zhi::Application::NoteService::newAnnotation id:998, document Id:660, start point:50QPointF(100.971,274.384), canvas:Marker(QVariant(QRectF, QRectF(0,0 54.6694x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:57:42.718 - Info - Zhi::Application::NoteService::changeNote id: 998
+2024-01-18 19:58:17.578 - Info - Zhi::Application::NoteService::changeNote id: 998
+2024-01-18 19:58:22.729 - Info - Zhi::Application::NoteService::newAnnotation id:999, document Id:660, start point:50QPointF(244.153,294.839), canvas:Marker(QVariant(QRectF, QRectF(0,0 84.4215x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:58:22.996 - Info - Zhi::Application::NoteService::changeNote id: 999
+2024-01-18 19:58:27.471 - Info - Zhi::Application::NoteService::newAnnotation id:1000, document Id:660, start point:50QPointF(105.31,331.409), canvas:Marker(QVariant(QRectF, QRectF(0,0 182.355x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:58:27.674 - Info - Zhi::Application::NoteService::changeNote id: 1000
+2024-01-18 19:58:51.532 - Info - Zhi::Application::NoteService::handle , parent id:661, index:116
+2024-01-18 19:58:54.588 - Info - Zhi::Application::NoteService::newAnnotation id:1001, document Id:660, start point:50QPointF(99.1116,331.55), canvas:Marker(QVariant(QRectF, QRectF(0,0 202.19x16.8595)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:58:56.167 - Info - Zhi::Application::NoteService::changeNote id: 1001
+2024-01-18 19:59:05.080 - Info - Zhi::Application::NoteService::newAnnotation id:1002, document Id:660, start point:50QPointF(223.698,308.475), canvas:Marker(QVariant(QRectF, QRectF(0,0 199.711x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:59:21.236 - Info - Zhi::Application::NoteService::changeNote id: 1002
+2024-01-18 19:59:54.681 - Info - Zhi::Application::NoteService::newAnnotation id:1003, document Id:660, start point:50QPointF(89.814,343.326), canvas:Marker(QVariant(QRectF, QRectF(0,0 448.884x34.2149)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 19:59:57.662 - Info - Zhi::Application::NoteService::changeNote id: 1003
+2024-01-18 20:00:32.247 - Info - Zhi::Application::NoteService::changeNote id: 1002
+2024-01-18 20:00:36.049 - Info - Zhi::Application::NoteService::changeNote id: 1002
+2024-01-18 20:01:00.222 - Info - Zhi::Application::NoteService::insertMarker id: 1003
+2024-01-18 20:01:10.721 - Info - Zhi::Application::NoteService::changeNote id: 1003
+2024-01-18 20:03:26.108 - Info - Zhi::Application::NoteService::newAnnotation id:1004, document Id:660, start point:50QPointF(100.971,376.037), canvas:Marker(QVariant(QRectF, QRectF(0,0 48.4711x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:03:38.239 - Info - Zhi::Application::NoteService::changeNote id: 1004
+2024-01-18 20:04:26.036 - Info - Zhi::Application::NoteService::changeNote id: 1004
+2024-01-18 20:04:37.779 - Info - Zhi::Application::NoteService::changeNote id: 1004
+2024-01-18 20:04:57.829 - Info - Zhi::Application::NoteService::insertMarker id: 1003
+2024-01-18 20:05:00.005 - Info - Zhi::Application::NoteService::newAnnotation id:1005, document Id:660, start point:50QPointF(335.269,382.855), canvas:Marker(QVariant(QRectF, QRectF(0,0 36.0744x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:05:00.379 - Info - Zhi::Application::NoteService::changeNote id: 1005
+2024-01-18 20:05:42.005 - Info - Zhi::Application::NoteService::changeNote id: 1002
+2024-01-18 20:06:07.774 - Info - Zhi::Application::NoteService::newAnnotation id:1006, document Id:660, start point:50QPointF(97.2521,414.607), canvas:Marker(QVariant(QRectF, QRectF(0,0 147.645x31.7355)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:06:08.190 - Info - Zhi::Application::NoteService::changeNote id: 1006
+2024-01-18 20:06:46.937 - Info - Zhi::Application::NoteService::newAnnotation id:1007, document Id:660, start point:50QPointF(237.335,447.938), canvas:Marker(QVariant(QRectF, QRectF(0,0 99.9174x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:06:52.809 - Info - Zhi::Application::NoteService::changeNote id: 1007
+2024-01-18 20:07:10.582 - Info - Zhi::Application::NoteService::newAnnotation id:1008, document Id:660, start point:50QPointF(143.12,466.674), canvas:Marker(QVariant(QRectF, QRectF(0,0 329.876x28.6364)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:07:24.193 - Info - Zhi::Application::NoteService::changeNote id: 1008
+2024-01-18 20:11:09.851 - Info - Zhi::Application::NoteService::changeNote id: 1008
+2024-01-18 20:12:11.071 - Info - Zhi::Application::NoteService::newAnnotation id:1009, document Id:660, start point:50QPointF(69.3595,513.781), canvas:Marker(QVariant(QRectF, QRectF(0,0 460.041x31.7355)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:12:11.274 - Info - Zhi::Application::NoteService::changeNote id: 1009
+2024-01-18 20:12:24.612 - Info - Zhi::Application::NoteService::changeNote id: 1009
+2024-01-18 20:13:22.589 - Info - Zhi::Application::NoteService::changeNote id: 1009
+2024-01-18 20:13:22.820 - Info - Zhi::Application::NoteService::changeNote id: 1009
+2024-01-18 20:13:25.139 - Info - Zhi::Application::NoteService::changeNote id: 1009
+2024-01-18 20:13:25.454 - Info - Zhi::Application::NoteService::changeNote id: 1009
+2024-01-18 20:13:32.844 - Info - Zhi::Application::NoteService::newAnnotation id:1010, document Id:660, start point:50QPointF(267.707,599.178), canvas:Marker(QVariant(QRectF, QRectF(0,0 134.008x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:13:33.056 - Info - Zhi::Application::NoteService::changeNote id: 1010
+2024-01-18 20:13:34.801 - Info - Zhi::Application::NoteService::handle , parent id:661, index:125
+2024-01-18 20:13:43.471 - Info - Zhi::Application::NoteService::newAnnotation id:1011, document Id:660, start point:50QPointF(275.145,598.558), canvas:Marker(QVariant(QRectF, QRectF(0,0 129.05x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:13:58.728 - Info - Zhi::Application::NoteService::changeNote id: 1011
+2024-01-18 20:13:58.822 - Info - Zhi::Application::NoteService::changeCanvas 1011
+2024-01-18 20:14:00.838 - Info - Zhi::Application::NoteService::replaceMarker id: 1011 , index: 0 , marker: Marker(QVariant(QLineF, QLineF(QPointF(7.5,9.5),QPointF(165.558,8.88017))),Zhi::Domain::Marker::NoLine,QPen(20,QBrush(QColor(ARGB 0.501961, 1, 0, 0),SolidPattern),SolidLine,32,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:14:19.978 - Info - Zhi::Application::NoteService::changeNote id: 1011
+2024-01-18 20:15:44.264 - Info - Zhi::Application::NoteService::newAnnotation id:1012, document Id:660, start point:51QPointF(70.5992,73.686), canvas:Marker(QVariant(QRectF, QRectF(0,0 486.074x50.9504)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:16:14.010 - Info - Zhi::Application::NoteService::changeNote id: 1012
+2024-01-18 20:17:28.487 - Info - Zhi::Application::NoteService::newAnnotation id:1013, document Id:660, start point:51QPointF(105.31,158.603), canvas:Marker(QVariant(QRectF, QRectF(0,0 302.603x15.6198)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:17:38.683 - Info - Zhi::Application::NoteService::changeNote id: 1013
+2024-01-18 20:18:06.611 - Info - Zhi::Application::NoteService::changeNote id: 1013
+2024-01-18 20:18:17.885 - Info - Zhi::Application::NoteService::newAnnotation id:1014, document Id:660, start point:51QPointF(311.715,189.455), canvas:Marker(QVariant(QRectF, QRectF(0,0 114.793x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:18:18.117 - Info - Zhi::Application::NoteService::changeNote id: 1014
+2024-01-18 20:18:40.764 - Info - Zhi::Application::NoteService::newAnnotation id:1015, document Id:660, start point:51QPointF(306.756,206.19), canvas:Marker(QVariant(QRectF, QRectF(0,0 167.479x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:19:04.251 - Info - Zhi::Application::NoteService::changeNote id: 1015
+2024-01-18 20:20:42.606 - Info - Zhi::Application::NoteService::newAnnotation id:1016, document Id:660, start point:51QPointF(191.467,276.231), canvas:Marker(QVariant(QRectF, QRectF(0,0 215.826x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:20:44.185 - Info - Zhi::Application::NoteService::changeNote id: 1016
+2024-01-18 20:21:09.565 - Info - Zhi::Application::NoteService::changeNote id: 1016
+2024-01-18 20:21:38.247 - Info - Zhi::Application::NoteService::newAnnotation id:1017, document Id:660, start point:51QPointF(124.525,335.116), canvas:Marker(QVariant(QRectF, QRectF(0,0 141.446x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:21:39.868 - Info - Zhi::Application::NoteService::handle , parent id:661, index:131
+2024-01-18 20:21:43.918 - Info - Zhi::Application::NoteService::newAnnotation id:1018, document Id:660, start point:51QPointF(129.483,338.835), canvas:Marker(QVariant(QRectF, QRectF(0,0 129.669x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:22:36.232 - Info - Zhi::Application::NoteService::changeNote id: 1018
+2024-01-18 20:22:55.739 - Info - Zhi::Application::NoteService::newAnnotation id:1019, document Id:660, start point:51QPointF(74.938,427.612), canvas:Marker(QVariant(QRectF, QRectF(0,0 458.802x34.8347)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:22:57.848 - Info - Zhi::Application::NoteService::changeNote id: 1019
+2024-01-18 20:23:18.972 - Info - Zhi::Application::NoteService::changeNote id: 1019
+2024-01-18 20:23:27.101 - Info - Zhi::Application::NoteService::newAnnotation id:1020, document Id:660, start point:51QPointF(235.475,411.975), canvas:Marker(QVariant(QRectF, QRectF(0,0 58.3884x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2024-01-18 20:23:28.438 - Info - Zhi::Application::NoteService::changeNote id: 1020
+2024-01-20 18:46:20.387 - Info - Zhi::Application::DocumentService::changeLastRead 660

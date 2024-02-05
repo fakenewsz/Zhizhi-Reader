@@ -1,0 +1,65 @@
+2023-11-26 16:29:25.536 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2023-11-26 16:29:25.536 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2023-11-26 16:29:25.536 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2023-11-26 16:29:25.536 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2023-11-26 16:29:25.536 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2023-11-26 16:29:25.536 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe", "C:\\Users\\boguagua\\Desktop\\刻意练习：如何从新手到大师 (安德斯·艾利克森（Anders Ericsson）  罗伯特·普尔（Robert Pool）) (Z-Library).pdf")
+2023-11-26 16:29:25.615 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("count", "siderBarMinimized", "lastReadedPage", "font", "categories")
+2023-11-26 16:29:25.615 - Info - "Check table (Annotation) OK."
+2023-11-26 16:29:25.615 - Info - "Check table (Category) OK."
+2023-11-26 16:29:25.615 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "updateCount", "syncTime")
+2023-11-26 16:29:25.615 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("usn", "id", "guid", "type")
+2023-11-26 16:29:25.615 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "guid", "type")
+2023-11-26 16:29:25.615 - Info - "Check table (Tag) OK."
+2023-11-26 16:29:25.615 - Info - "Check table (Resource) OK."
+2023-11-26 16:29:26.300 - Info - Zhi::Application::DocumentService::newDocument "C:/Users/boguagua/Desktop/刻意练习：如何从新手到大师 (安德斯·艾利克森（Anders Ericsson）  罗伯特·普尔（Robert Pool）) (Z-Library).pdf" "032fc5c90fcac5eba5ceb4afe60d6ca0"
+2023-11-26 16:29:26.316 - Info - open document: "C:/Users/boguagua/Desktop/刻意练习：如何从新手到大师 (安德斯·艾利克森（Anders Ericsson）  罗伯特·普尔（Robert Pool）) (Z-Library).pdf" 0  ms
+2023-11-26 16:29:26.347 - Info - initialize reading for: "C:/Users/boguagua/Desktop/刻意练习：如何从新手到大师 (安德斯·艾利克森（Anders Ericsson）  罗伯特·普尔（Robert Pool）) (Z-Library).pdf" 31  ms
+2023-11-26 16:29:26.373 - Warning - unsupported shortcut name: "ffff00"
+2023-11-26 16:29:26.373 - Warning - unsupported shortcut name: "00ff00"
+2023-11-26 16:29:26.373 - Warning - unsupported shortcut name: "00ffff"
+2023-11-26 16:29:26.373 - Warning - unsupported shortcut name: "ff00ff"
+2023-11-26 16:29:26.373 - Warning - unsupported shortcut name: "0000ff"
+2023-11-26 16:29:26.373 - Warning - unsupported shortcut name: "ff0000"
+2023-11-26 16:29:26.373 - Warning - unsupported shortcut name: "000080"
+2023-11-26 16:29:26.374 - Warning - unsupported shortcut name: "008000"
+2023-11-26 16:29:26.374 - Warning - unsupported shortcut name: "808000"
+2023-11-26 16:29:26.374 - Warning - unsupported shortcut name: "c0c0c0"
+2023-11-28 14:42:56.350 - Info - Zhi::Application::NoteService::newAnnotation id:624, document Id:622, start point:88QPointF(66,555), canvas:Marker(QVariant(QRectF, QRectF(0,0 467.25x43.5)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-28 14:42:57.363 - Info - Zhi::Application::NoteService::changeNote id: 624
+2023-11-28 14:43:01.664 - Info - Zhi::Application::NoteService::newAnnotation id:625, document Id:622, start point:89QPointF(63,74.25), canvas:Marker(QVariant(QRectF, QRectF(0,0 465x78.75)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-28 14:43:38.235 - Info - Zhi::Application::NoteService::changeNote id: 625
+2023-11-28 14:54:21.445 - Info - Zhi::Application::NoteService::newAnnotation id:626, document Id:622, start point:90QPointF(62.25,248.25), canvas:Marker(QVariant(QRectF, QRectF(0,0 507.75x105.75)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-28 14:54:27.362 - Info - Zhi::Application::NoteService::changeNote id: 626
+2023-11-28 14:55:42.845 - Info - Zhi::Application::NoteService::newAnnotation id:627, document Id:622, start point:91QPointF(75.75,464.25), canvas:Marker(QVariant(QRectF, QRectF(0,0 476.25x77.25)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-28 14:55:43.181 - Info - Zhi::Application::NoteService::changeNote id: 627
+2023-11-28 14:56:05.225 - Info - Zhi::Application::NoteService::changeNote id: 627
+2023-11-28 14:56:20.315 - Info - Zhi::Application::NoteService::newAnnotation id:628, document Id:622, start point:91QPointF(62.25,633), canvas:Marker(QVariant(QRectF, QRectF(0,0 477x78.75)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-28 14:56:38.872 - Info - Zhi::Application::NoteService::changeNote id: 628
+2023-11-28 14:57:28.404 - Info - Zhi::Application::NoteService::newAnnotation id:629, document Id:622, start point:93QPointF(69.75,108), canvas:Marker(QVariant(QRectF, QRectF(0,0 472.5x77.25)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-28 14:57:28.741 - Info - Zhi::Application::NoteService::changeNote id: 629
+2023-11-29 15:14:29.193 - Info - Received message from instance:  1 , arguments:  ("C:\\Users\\boguagua\\Desktop\\大话设计模式 (程杰) (Z-Library).pdf")
+2023-11-29 15:14:29.213 - Info - open document: "C:/Users/boguagua/Desktop/大话设计模式 (程杰) (Z-Library).pdf" 8  ms
+2023-11-29 15:14:29.365 - Info - initialize reading for: "C:/Users/boguagua/Desktop/大话设计模式 (程杰) (Z-Library).pdf" 148  ms
+2023-11-29 15:14:29.391 - Warning - unsupported shortcut name: "ffff00"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "00ff00"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "00ffff"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "ff00ff"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "0000ff"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "ff0000"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "000080"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "008000"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "808000"
+2023-11-29 15:14:29.392 - Warning - unsupported shortcut name: "c0c0c0"
+2023-11-29 16:01:59.245 - Info - Zhi::Application::NoteService::newAnnotation id:630, document Id:611, start point:703QPointF(153.657,183.231), canvas:Marker(QVariant(QRectF, QRectF(0,0 313.14x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-29 16:01:59.729 - Info - Zhi::Application::NoteService::changeNote id: 630
+2023-11-29 16:02:10.176 - Info - Zhi::Application::NoteService::newAnnotation id:631, document Id:611, start point:703QPointF(73.6983,206.926), canvas:Marker(QVariant(QRectF, QRectF(0,0 469.959x45.9917)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-29 16:02:10.551 - Info - Zhi::Application::NoteService::changeNote id: 631
+2023-11-29 16:02:39.273 - Info - Zhi::Application::NoteService::newAnnotation id:632, document Id:611, start point:703QPointF(63.1612,529.24), canvas:Marker(QVariant(QRectF, QRectF(0,0 475.537x63.3471)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-29 16:02:39.822 - Info - Zhi::Application::NoteService::changeNote id: 632
+2023-11-29 16:10:25.257 - Info - Zhi::Application::NoteService::newAnnotation id:633, document Id:611, start point:704QPointF(121.426,115.657), canvas:Marker(QVariant(QRectF, QRectF(0,0 174.298x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-29 16:10:25.742 - Info - Zhi::Application::NoteService::changeNote id: 633
+2023-11-29 16:10:33.325 - Info - Zhi::Application::NoteService::replaceMarker id: 633 , index: 0 , marker: Marker(QVariant(QLineF, QLineF(QPointF(103.574,7.02066),QPointF(166.798,9.5))),Zhi::Domain::Marker::NoLine,QPen(20,QBrush(QColor(ARGB 0.501961, 1, 1, 0),SolidPattern),SolidLine,32,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-29 16:10:35.607 - Warning - Trying to construct an instance of an invalid type, type id: 443457182
+2023-11-29 16:10:35.955 - Fatal - Succeed to write minidump, dump path: C:/Users/boguagua/Documents/Zhizhi Reader\Crashes\/8b7732ab-b604-4b8b-88cb-0f8bfd4acf4d
+

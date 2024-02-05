@@ -1,0 +1,28 @@
+2023-12-16 20:06:35.984 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2023-12-16 20:06:35.984 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2023-12-16 20:06:35.984 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2023-12-16 20:06:35.984 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2023-12-16 20:06:35.984 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2023-12-16 20:06:35.984 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe", "C:\\Users\\boguagua\\Downloads\\挑战程序设计竞赛 (秋葉拓哉, Yōichi Iwata, 北川宜稔, 巫泽俊, 庄俊元, 李津羽) (Z-Library).pdf")
+2023-12-16 20:06:36.153 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("siderBarMinimized", "categories", "count", "lastReadedPage", "font")
+2023-12-16 20:06:36.154 - Info - "Check table (Annotation) OK."
+2023-12-16 20:06:36.154 - Info - "Check table (Category) OK."
+2023-12-16 20:06:36.154 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "id", "syncTime")
+2023-12-16 20:06:36.154 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("guid", "type", "id", "usn")
+2023-12-16 20:06:36.154 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "type", "usn")
+2023-12-16 20:06:36.154 - Info - "Check table (Tag) OK."
+2023-12-16 20:06:36.154 - Info - "Check table (Resource) OK."
+2023-12-16 20:06:36.966 - Info - Zhi::Application::DocumentService::newDocument "C:/Users/boguagua/Downloads/挑战程序设计竞赛 (秋葉拓哉, Yōichi Iwata, 北川宜稔, 巫泽俊, 庄俊元, 李津羽) (Z-Library).pdf" "e9ff89d538b52f0927d1312f493ecd6c"
+2023-12-16 20:06:36.986 - Info - open document: "C:/Users/boguagua/Downloads/挑战程序设计竞赛 (秋葉拓哉, Yōichi Iwata, 北川宜稔, 巫泽俊, 庄俊元, 李津羽) (Z-Library).pdf" 1  ms
+2023-12-16 20:06:37.003 - Info - initialize reading for: "C:/Users/boguagua/Downloads/挑战程序设计竞赛 (秋葉拓哉, Yōichi Iwata, 北川宜稔, 巫泽俊, 庄俊元, 李津羽) (Z-Library).pdf" 16  ms
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "ffff00"
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "00ff00"
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "00ffff"
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "ff00ff"
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "0000ff"
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "ff0000"
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "000080"
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "008000"
+2023-12-16 20:06:37.019 - Warning - unsupported shortcut name: "808000"
+2023-12-16 20:06:37.020 - Warning - unsupported shortcut name: "c0c0c0"
+2023-12-18 13:01:30.789 - Info - Zhi::Application::DocumentService::changeLastRead 658

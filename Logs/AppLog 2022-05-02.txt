@@ -1,0 +1,27 @@
+2022-05-02 21:30:03.606 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-05-02 21:30:03.607 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-05-02 21:30:03.607 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-05-02 21:30:03.607 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-05-02 21:30:03.607 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-05-02 21:30:03.607 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-05-02 21:30:03.700 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("siderBarMinimized", "count", "lastReadedPage", "font", "categories")
+2022-05-02 21:30:03.700 - Info - "Check table (Annotation) OK."
+2022-05-02 21:30:03.700 - Info - "Check table (Category) OK."
+2022-05-02 21:30:03.701 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "updateCount", "syncTime")
+2022-05-02 21:30:03.701 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("id", "guid", "type", "usn")
+2022-05-02 21:30:03.701 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "type", "usn")
+2022-05-02 21:30:03.701 - Info - "Check table (Tag) OK."
+2022-05-02 21:30:03.701 - Info - "Check table (Resource) OK."
+2022-05-02 22:46:16.741 - Info - open document: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 12  ms
+2022-05-02 22:46:16.776 - Info - initialize reading for: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 33  ms
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "ffff00"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "00ff00"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "00ffff"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "ff00ff"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "0000ff"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "ff0000"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "000080"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "008000"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "808000"
+2022-05-02 22:46:16.809 - Warning - unsupported shortcut name: "c0c0c0"
+2022-05-02 23:05:38.081 - Info - Zhi::Application::DocumentService::changeLastRead 1

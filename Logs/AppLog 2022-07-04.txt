@@ -1,0 +1,58 @@
+2022-07-04 19:40:30.585 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-07-04 19:40:30.585 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-07-04 19:40:30.585 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-07-04 19:40:30.585 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-07-04 19:40:30.585 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-07-04 19:40:30.585 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-07-04 19:40:30.620 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("siderBarMinimized", "font", "categories", "count", "lastReadedPage")
+2022-07-04 19:40:30.620 - Info - "Check table (Annotation) OK."
+2022-07-04 19:40:30.621 - Info - "Check table (Category) OK."
+2022-07-04 19:40:30.621 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("syncTime", "id", "updateCount")
+2022-07-04 19:40:30.621 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("type", "guid", "usn", "id")
+2022-07-04 19:40:30.621 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("type", "guid", "usn")
+2022-07-04 19:40:30.621 - Info - "Check table (Tag) OK."
+2022-07-04 19:40:30.621 - Info - "Check table (Resource) OK."
+2022-07-04 19:40:34.813 - Info - Zhi::Application::DocumentService::newDocument "D:/OneDrive/桌面/曼昆经济学原理中文版_高清pdf.pdf" "52b0c1804eb34eab06c3bcde15b45b13"
+2022-07-04 19:40:34.833 - Info - open document: "D:/OneDrive/桌面/曼昆经济学原理中文版_高清pdf.pdf" 2  ms
+2022-07-04 19:40:34.844 - Info - initialize reading for: "D:/OneDrive/桌面/曼昆经济学原理中文版_高清pdf.pdf" 10  ms
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "ffff00"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "00ff00"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "00ffff"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "ff00ff"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "0000ff"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "ff0000"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "000080"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "008000"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "808000"
+2022-07-04 19:40:34.856 - Warning - unsupported shortcut name: "c0c0c0"
+2022-07-04 19:40:41.209 - Warning - create pixmap failed
+2022-07-04 19:40:41.292 - Fatal - Succeed to write minidump, dump path: C:/Users/boguagua/Documents/Zhizhi Reader\Crashes\/5007cc93-7b72-4957-b2c5-679394a94095
+
+2022-07-04 19:40:45.118 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-07-04 19:40:45.118 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-07-04 19:40:45.118 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-07-04 19:40:45.118 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-07-04 19:40:45.118 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-07-04 19:40:45.119 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-07-04 19:40:45.152 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("categories", "siderBarMinimized", "lastReadedPage", "count", "font")
+2022-07-04 19:40:45.152 - Info - "Check table (Annotation) OK."
+2022-07-04 19:40:45.152 - Info - "Check table (Category) OK."
+2022-07-04 19:40:45.152 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "updateCount", "syncTime")
+2022-07-04 19:40:45.152 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("id", "usn", "type", "guid")
+2022-07-04 19:40:45.152 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "type", "guid")
+2022-07-04 19:40:45.152 - Info - "Check table (Tag) OK."
+2022-07-04 19:40:45.152 - Info - "Check table (Resource) OK."
+2022-07-04 19:40:48.707 - Info - open document: "D:/OneDrive/桌面/曼昆经济学原理中文版_高清pdf.pdf" 1  ms
+2022-07-04 19:40:48.716 - Info - initialize reading for: "D:/OneDrive/桌面/曼昆经济学原理中文版_高清pdf.pdf" 9  ms
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "ffff00"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "00ff00"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "00ffff"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "ff00ff"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "0000ff"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "ff0000"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "000080"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "008000"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "808000"
+2022-07-04 19:40:48.726 - Warning - unsupported shortcut name: "c0c0c0"
+2022-07-04 19:40:56.450 - Fatal - Succeed to write minidump, dump path: C:/Users/boguagua/Documents/Zhizhi Reader\Crashes\/eead165e-f06f-4149-a65b-4614e5d9c978
+

@@ -1,0 +1,63 @@
+2023-11-24 20:16:52.461 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2023-11-24 20:16:52.461 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2023-11-24 20:16:52.461 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2023-11-24 20:16:52.461 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2023-11-24 20:16:52.461 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2023-11-24 20:16:52.461 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe", "C:\\Users\\boguagua\\Desktop\\大话设计模式 (程杰) (Z-Library).pdf")
+2023-11-24 20:16:52.669 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("count", "categories", "lastReadedPage", "siderBarMinimized", "font")
+2023-11-24 20:16:52.669 - Info - "Check table (Annotation) OK."
+2023-11-24 20:16:52.669 - Info - "Check table (Category) OK."
+2023-11-24 20:16:52.669 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "syncTime", "id")
+2023-11-24 20:16:52.669 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("usn", "id", "type", "guid")
+2023-11-24 20:16:52.669 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "type", "guid")
+2023-11-24 20:16:52.669 - Info - "Check table (Tag) OK."
+2023-11-24 20:16:52.669 - Info - "Check table (Resource) OK."
+2023-11-24 20:16:53.406 - Info - Zhi::Application::DocumentService::newDocument "C:/Users/boguagua/Desktop/大话设计模式 (程杰) (Z-Library).pdf" "5500ca4c04a5abab68be374979b55481"
+2023-11-24 20:16:53.426 - Info - open document: "C:/Users/boguagua/Desktop/大话设计模式 (程杰) (Z-Library).pdf" 4  ms
+2023-11-24 20:16:53.532 - Info - initialize reading for: "C:/Users/boguagua/Desktop/大话设计模式 (程杰) (Z-Library).pdf" 106  ms
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "ffff00"
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "00ff00"
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "00ffff"
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "ff00ff"
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "0000ff"
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "ff0000"
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "000080"
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "008000"
+2023-11-24 20:16:53.556 - Warning - unsupported shortcut name: "808000"
+2023-11-24 20:16:53.557 - Warning - unsupported shortcut name: "c0c0c0"
+2023-11-25 22:20:20.613 - Info - Zhi::Application::NoteService::newAnnotation id:613, document Id:611, start point:252QPointF(67.5,349.5), canvas:Marker(QVariant(QRectF, QRectF(0,0 500.25x128.25)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:20:20.936 - Info - Zhi::Application::NoteService::changeNote id: 613
+2023-11-25 22:20:49.094 - Info - Zhi::Application::NoteService::newAnnotation id:614, document Id:611, start point:252QPointF(73.5,642.75), canvas:Marker(QVariant(QRectF, QRectF(0,0 476.25x42.75)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:20:49.491 - Info - Zhi::Application::NoteService::changeNote id: 614
+2023-11-25 22:22:56.216 - Info - Zhi::Application::NoteService::newAnnotation id:615, document Id:611, start point:259QPointF(87.75,72.75), canvas:Marker(QVariant(QRectF, QRectF(0,0 463.5x42)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:23:00.003 - Info - Zhi::Application::NoteService::changeNote id: 615
+2023-11-25 22:23:01.369 - Info - Zhi::Application::NoteService::newAnnotation id:616, document Id:611, start point:260QPointF(78,107.5), canvas:Marker(QVariant(QRectF, QRectF(0,0 324.75x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:23:02.610 - Info - Zhi::Application::NoteService::changeNote id: 616
+2023-11-25 22:23:27.829 - Info - Zhi::Application::NoteService::newAnnotation id:617, document Id:611, start point:260QPointF(181.012,181.374), canvas:Marker(QVariant(QRectF, QRectF(0,0 263.446x19.0981)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:23:33.901 - Info - Zhi::Application::NoteService::changeNote id: 617
+2023-11-25 22:24:57.065 - Info - Zhi::Application::NoteService::newAnnotation id:618, document Id:611, start point:263QPointF(308.564,198.521), canvas:Marker(QVariant(QRectF, QRectF(0,0 127.185x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:24:57.375 - Info - Zhi::Application::NoteService::changeNote id: 618
+2023-11-25 22:25:24.126 - Info - Zhi::Application::NoteService::changeNote id: 618
+2023-11-25 22:25:24.478 - Info - Zhi::Application::NoteService::handle , parent id:612, index:5
+2023-11-25 22:25:32.486 - Info - Zhi::Application::NoteService::newAnnotation id:618, document Id:611, start point:263QPointF(308.564,198.521), canvas:Marker(QVariant(QRectF, QRectF(0,0 127.185x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:25:32.885 - Info - Zhi::Application::NoteService::changeNote id: 618
+2023-11-25 22:25:40.795 - Info - Zhi::Application::NoteService::newAnnotation id:619, document Id:611, start point:264QPointF(73.9494,78.6679), canvas:Marker(QVariant(QRectF, QRectF(0,0 477.059x59.0544)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:25:41.018 - Info - Zhi::Application::NoteService::changeNote id: 619
+2023-11-25 22:28:10.827 - Info - Zhi::Application::NoteService::newAnnotation id:620, document Id:611, start point:690QPointF(83.17,214.719), canvas:Marker(QVariant(QRectF, QRectF(0,0 458.105x89.79)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:28:11.221 - Info - Zhi::Application::NoteService::changeNote id: 620
+2023-11-25 22:28:23.103 - Info - Zhi::Application::NoteService::newAnnotation id:621, document Id:611, start point:690QPointF(58.0693,358.665), canvas:Marker(QVariant(QRectF, QRectF(0,0 475.522x34.4659)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-11-25 22:28:23.375 - Info - Zhi::Application::NoteService::changeNote id: 621
+2023-11-26 16:28:55.944 - Info - open document: "C:/Users/boguagua/Desktop/161f0e39197d9103fe383ff6.pdf" 15  ms
+2023-11-26 16:28:55.960 - Info - initialize reading for: "C:/Users/boguagua/Desktop/161f0e39197d9103fe383ff6.pdf" 16  ms
+2023-11-26 16:28:55.981 - Warning - unsupported shortcut name: "ffff00"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "00ff00"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "00ffff"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "ff00ff"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "0000ff"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "ff0000"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "000080"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "008000"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "808000"
+2023-11-26 16:28:55.982 - Warning - unsupported shortcut name: "c0c0c0"
+2023-11-26 16:28:59.445 - Info - Zhi::Application::DocumentService::changeLastRead 396
+2023-11-26 16:29:19.991 - Info - Zhi::Application::DocumentService::changeLastRead 611

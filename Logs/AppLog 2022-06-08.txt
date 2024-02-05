@@ -1,0 +1,281 @@
+2022-06-08 18:10:02.315 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:10:02.315 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:10:02.316 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:10:02.316 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:10:02.316 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:10:02.316 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:10:03.098 - Info - Backup database file Succesed.
+2022-06-08 18:10:03.288 - Info - Commands count:  13 , need to execute count:  13
+2022-06-08 18:10:03.289 - Info - Start executing Command:  "M20170111_2100_createDocuments"
+2022-06-08 18:10:03.290 - Info - M20170111_2100_createDocuments::createTable Successed!
+2022-06-08 18:10:03.291 - Info - Command "M20170111_2100_createDocuments" finished.
+2022-06-08 18:10:03.292 - Info - Start executing Command:  "M20170111_2142_createAnnotations"
+2022-06-08 18:10:03.292 - Info - M20170111_2142_createAnnotations::createTable Successed!
+2022-06-08 18:10:03.293 - Info - Command "M20170111_2142_createAnnotations" finished.
+2022-06-08 18:10:03.293 - Info - Start executing Command:  "M20170226_0347_createMarkers"
+2022-06-08 18:10:03.293 - Info - M20170226_0347_createMarkers::createTable Successed!
+2022-06-08 18:10:03.294 - Info - Command "M20170226_0347_createMarkers" finished.
+2022-06-08 18:10:03.294 - Info - Start executing Command:  "M20180114"
+2022-06-08 18:10:03.295 - Info - M20180114::doUp Successed!
+2022-06-08 18:10:03.296 - Info - Command "M20180114" finished.
+2022-06-08 18:10:03.296 - Info - Start executing Command:  "M201709231700_CreateCategories"
+2022-06-08 18:10:03.296 - Info - M201709231700_CreateCategories::doUp Successed!
+2022-06-08 18:10:03.297 - Info - Command "M201709231700_CreateCategories" finished.
+2022-06-08 18:10:03.297 - Info - Start executing Command:  "M20171105"
+2022-06-08 18:10:03.297 - Info - M20171105::doUp Successed!
+2022-06-08 18:10:03.298 - Info - Command "M20171105" finished.
+2022-06-08 18:10:03.299 - Info - Start executing Command:  "M20171217_1800_ModifyDocuments"
+2022-06-08 18:10:03.299 - Info - M20171217_1800_ModifyDocuments::modifyHash Successed!
+2022-06-08 18:10:03.300 - Info - Command "M20171217_1800_ModifyDocuments" finished.
+2022-06-08 18:10:03.300 - Info - Start executing Command:  "M20180418_ModifyDocuments"
+2022-06-08 18:10:03.301 - Info - Command "M20180418_ModifyDocuments" finished.
+2022-06-08 18:10:03.301 - Info - Start executing Command:  "M20180524_0613"
+2022-06-08 18:10:03.302 - Info - Command "M20180524_0613" finished.
+2022-06-08 18:10:03.302 - Info - Start executing Command:  "M20180619_ModifyCategory"
+2022-06-08 18:10:03.303 - Info - Command "M20180619_ModifyCategory" finished.
+2022-06-08 18:10:03.303 - Info - Start executing Command:  "M20181115_AlterDocument"
+2022-06-08 18:10:03.303 - Info - M20181115_AlterDocument::alterDocumentHash Successed!
+2022-06-08 18:10:03.304 - Info - Command "M20181115_AlterDocument" finished.
+2022-06-08 18:10:03.304 - Info - Start executing Command:  "M20190102_UnifyId"
+2022-06-08 18:10:03.306 - Info - Command "M20190102_UnifyId" finished.
+2022-06-08 18:10:03.306 - Info - Start executing Command:  "M20190731_CreateTag"
+2022-06-08 18:10:03.308 - Info - Command "M20190731_CreateTag" finished.
+2022-06-08 18:10:03.308 - Info - Migrate database SUCCESSED.
+2022-06-08 18:10:03.311 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("font", "categories", "siderBarMinimized", "lastReadedPage", "count")
+2022-06-08 18:10:03.311 - Info - "Check table (Annotation) OK."
+2022-06-08 18:10:03.311 - Info - "Check table (Category) OK."
+2022-06-08 18:10:03.311 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "syncTime", "updateCount")
+2022-06-08 18:10:03.311 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("guid", "type", "id", "usn")
+2022-06-08 18:10:03.311 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "type", "usn")
+2022-06-08 18:10:03.311 - Info - "Check table (Tag) OK."
+2022-06-08 18:10:03.311 - Info - "Check table (Resource) OK."
+2022-06-08 18:10:15.118 - Info - Zhi::Application::DocumentService::newDocument "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" "c63e4700a9e13c20ca44de05c31fce83"
+2022-06-08 18:10:15.134 - Info - open document: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 1  ms
+2022-06-08 18:10:15.143 - Info - initialize reading for: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 8  ms
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "ffff00"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "00ff00"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "00ffff"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "ff00ff"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "0000ff"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "ff0000"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "000080"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "008000"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "808000"
+2022-06-08 18:10:15.153 - Warning - unsupported shortcut name: "c0c0c0"
+2022-06-08 18:10:29.131 - Info - Zhi::Application::DocumentService::changeLastRead 1
+2022-06-08 18:10:36.669 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:10:36.669 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:10:36.669 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:10:36.670 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:10:36.670 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:10:36.670 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:10:36.701 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("count", "siderBarMinimized", "font", "categories", "lastReadedPage")
+2022-06-08 18:10:36.701 - Info - "Check table (Annotation) OK."
+2022-06-08 18:10:36.701 - Info - "Check table (Category) OK."
+2022-06-08 18:10:36.701 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "id", "syncTime")
+2022-06-08 18:10:36.701 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("type", "usn", "guid", "id")
+2022-06-08 18:10:36.701 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("type", "usn", "guid")
+2022-06-08 18:10:36.701 - Info - "Check table (Tag) OK."
+2022-06-08 18:10:36.701 - Info - "Check table (Resource) OK."
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "00ff00"
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "0000ff"
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "000080"
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "808000"
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "00ffff"
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "ff00ff"
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "ff0000"
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "ffff00"
+2022-06-08 18:11:45.939 - Warning - unsupported shortcut name: "c0c0c0"
+2022-06-08 18:11:45.940 - Warning - unsupported shortcut name: "008000"
+2022-06-08 18:15:48.957 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:15:48.957 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:15:48.957 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:15:48.957 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:15:48.957 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:15:48.957 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:15:49.003 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("font", "categories", "lastReadedPage", "siderBarMinimized", "count")
+2022-06-08 18:15:49.003 - Info - "Check table (Annotation) OK."
+2022-06-08 18:15:49.003 - Info - "Check table (Category) OK."
+2022-06-08 18:15:49.003 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("syncTime", "updateCount", "id")
+2022-06-08 18:15:49.003 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("guid", "type", "usn", "id")
+2022-06-08 18:15:49.003 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "type", "usn")
+2022-06-08 18:15:49.004 - Info - "Check table (Tag) OK."
+2022-06-08 18:15:49.004 - Info - "Check table (Resource) OK."
+2022-06-08 18:15:49.266 - Info - Received message from instance:  1 , arguments:  ()
+2022-06-08 18:15:50.722 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:15:50.723 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:15:50.723 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:15:50.723 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:15:50.723 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:15:50.723 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:15:50.753 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("lastReadedPage", "categories", "font", "siderBarMinimized", "count")
+2022-06-08 18:15:50.753 - Info - "Check table (Annotation) OK."
+2022-06-08 18:15:50.753 - Info - "Check table (Category) OK."
+2022-06-08 18:15:50.753 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "syncTime", "id")
+2022-06-08 18:15:50.753 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("type", "usn", "guid", "id")
+2022-06-08 18:15:50.753 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("type", "usn", "guid")
+2022-06-08 18:15:50.753 - Info - "Check table (Tag) OK."
+2022-06-08 18:15:50.753 - Info - "Check table (Resource) OK."
+2022-06-08 18:16:21.555 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:16:21.556 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:16:21.556 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:16:21.556 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:16:21.556 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:16:21.556 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:16:21.585 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("lastReadedPage", "siderBarMinimized", "font", "categories", "count")
+2022-06-08 18:16:21.585 - Info - "Check table (Annotation) OK."
+2022-06-08 18:16:21.586 - Info - "Check table (Category) OK."
+2022-06-08 18:16:21.586 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("syncTime", "id", "updateCount")
+2022-06-08 18:16:21.586 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("guid", "usn", "id", "type")
+2022-06-08 18:16:21.586 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "usn", "type")
+2022-06-08 18:16:21.586 - Info - "Check table (Tag) OK."
+2022-06-08 18:16:21.586 - Info - "Check table (Resource) OK."
+2022-06-08 18:16:23.162 - Info - open document: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 1  ms
+2022-06-08 18:16:23.169 - Info - initialize reading for: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 7  ms
+2022-06-08 18:16:23.179 - Warning - unsupported shortcut name: "ffff00"
+2022-06-08 18:16:23.179 - Warning - unsupported shortcut name: "00ff00"
+2022-06-08 18:16:23.179 - Warning - unsupported shortcut name: "00ffff"
+2022-06-08 18:16:23.179 - Warning - unsupported shortcut name: "ff00ff"
+2022-06-08 18:16:23.179 - Warning - unsupported shortcut name: "0000ff"
+2022-06-08 18:16:23.179 - Warning - unsupported shortcut name: "ff0000"
+2022-06-08 18:16:23.179 - Warning - unsupported shortcut name: "000080"
+2022-06-08 18:16:23.179 - Warning - unsupported shortcut name: "008000"
+2022-06-08 18:16:23.180 - Warning - unsupported shortcut name: "808000"
+2022-06-08 18:16:23.180 - Warning - unsupported shortcut name: "c0c0c0"
+2022-06-08 18:16:29.930 - Info - Zhi::Application::DocumentService::changeLastRead 1
+2022-06-08 18:16:42.509 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:16:42.510 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:16:42.510 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:16:42.510 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:16:42.510 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:16:42.510 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:16:42.541 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("lastReadedPage", "siderBarMinimized", "count", "font", "categories")
+2022-06-08 18:16:42.541 - Info - "Check table (Annotation) OK."
+2022-06-08 18:16:42.541 - Info - "Check table (Category) OK."
+2022-06-08 18:16:42.541 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "syncTime", "updateCount")
+2022-06-08 18:16:42.541 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("type", "id", "usn", "guid")
+2022-06-08 18:16:42.541 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("type", "usn", "guid")
+2022-06-08 18:16:42.541 - Info - "Check table (Tag) OK."
+2022-06-08 18:16:42.542 - Info - "Check table (Resource) OK."
+2022-06-08 18:16:44.983 - Warning - unsupported shortcut name: "00ff00"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "0000ff"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "000080"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "808000"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "00ffff"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "ff00ff"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "ff0000"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "ffff00"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "c0c0c0"
+2022-06-08 18:16:44.984 - Warning - unsupported shortcut name: "008000"
+2022-06-08 18:19:07.878 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:19:07.878 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:19:07.878 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:19:07.878 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:19:07.878 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:19:07.878 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:19:07.908 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("font", "categories", "lastReadedPage", "count", "siderBarMinimized")
+2022-06-08 18:19:07.908 - Info - "Check table (Annotation) OK."
+2022-06-08 18:19:07.909 - Info - "Check table (Category) OK."
+2022-06-08 18:19:07.909 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "id", "syncTime")
+2022-06-08 18:19:07.909 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("guid", "id", "usn", "type")
+2022-06-08 18:19:07.909 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "usn", "type")
+2022-06-08 18:19:07.909 - Info - "Check table (Tag) OK."
+2022-06-08 18:19:07.909 - Info - "Check table (Resource) OK."
+2022-06-08 18:20:27.087 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:20:27.087 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:20:27.087 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:20:27.087 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:20:27.087 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:20:27.087 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:20:27.102 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("categories", "siderBarMinimized", "font", "lastReadedPage", "count")
+2022-06-08 18:20:27.102 - Info - "Check table (Annotation) OK."
+2022-06-08 18:20:27.102 - Info - "Check table (Category) OK."
+2022-06-08 18:20:27.102 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "updateCount", "syncTime")
+2022-06-08 18:20:27.102 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("id", "guid", "type", "usn")
+2022-06-08 18:20:27.102 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "type", "usn")
+2022-06-08 18:20:27.102 - Info - "Check table (Tag) OK."
+2022-06-08 18:20:27.102 - Info - "Check table (Resource) OK."
+2022-06-08 18:24:29.585 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:24:29.585 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:24:29.585 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:24:29.586 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:24:29.586 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:24:29.586 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:24:29.615 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("siderBarMinimized", "font", "lastReadedPage", "categories", "count")
+2022-06-08 18:24:29.615 - Info - "Check table (Annotation) OK."
+2022-06-08 18:24:29.615 - Info - "Check table (Category) OK."
+2022-06-08 18:24:29.615 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "syncTime", "id")
+2022-06-08 18:24:29.615 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("type", "usn", "id", "guid")
+2022-06-08 18:24:29.615 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("type", "usn", "guid")
+2022-06-08 18:24:29.616 - Info - "Check table (Tag) OK."
+2022-06-08 18:24:29.616 - Info - "Check table (Resource) OK."
+2022-06-08 18:27:31.621 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:27:31.621 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:27:31.621 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:27:31.621 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:27:31.621 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:27:31.621 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:27:31.652 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("siderBarMinimized", "lastReadedPage", "count", "font", "categories")
+2022-06-08 18:27:31.652 - Info - "Check table (Annotation) OK."
+2022-06-08 18:27:31.652 - Info - "Check table (Category) OK."
+2022-06-08 18:27:31.652 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "updateCount", "syncTime")
+2022-06-08 18:27:31.652 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("id", "type", "guid", "usn")
+2022-06-08 18:27:31.652 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("type", "guid", "usn")
+2022-06-08 18:27:31.652 - Info - "Check table (Tag) OK."
+2022-06-08 18:27:31.653 - Info - "Check table (Resource) OK."
+2022-06-08 18:30:52.281 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:30:52.282 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:30:52.282 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:30:52.282 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:30:52.282 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:30:52.282 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:30:52.311 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("siderBarMinimized", "font", "categories", "lastReadedPage", "count")
+2022-06-08 18:30:52.311 - Info - "Check table (Annotation) OK."
+2022-06-08 18:30:52.311 - Info - "Check table (Category) OK."
+2022-06-08 18:30:52.311 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "syncTime", "id")
+2022-06-08 18:30:52.311 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("guid", "usn", "id", "type")
+2022-06-08 18:30:52.311 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "usn", "type")
+2022-06-08 18:30:52.311 - Info - "Check table (Tag) OK."
+2022-06-08 18:30:52.311 - Info - "Check table (Resource) OK."
+2022-06-08 18:31:00.654 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:31:00.655 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:31:00.655 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:31:00.655 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:31:00.655 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:31:00.655 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:31:00.683 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("categories", "count", "font", "lastReadedPage", "siderBarMinimized")
+2022-06-08 18:31:00.683 - Info - "Check table (Annotation) OK."
+2022-06-08 18:31:00.683 - Info - "Check table (Category) OK."
+2022-06-08 18:31:00.684 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "updateCount", "syncTime")
+2022-06-08 18:31:00.684 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("usn", "id", "guid", "type")
+2022-06-08 18:31:00.684 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "guid", "type")
+2022-06-08 18:31:00.684 - Info - "Check table (Tag) OK."
+2022-06-08 18:31:00.684 - Info - "Check table (Resource) OK."
+2022-06-08 18:31:47.733 - Info - File not exist, file path: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf"
+2022-06-08 18:40:32.242 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-06-08 18:40:32.242 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-06-08 18:40:32.242 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-06-08 18:40:32.242 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-06-08 18:40:32.242 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-06-08 18:40:32.242 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-06-08 18:40:32.273 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("categories", "font", "lastReadedPage", "count", "siderBarMinimized")
+2022-06-08 18:40:32.274 - Info - "Check table (Annotation) OK."
+2022-06-08 18:40:32.274 - Info - "Check table (Category) OK."
+2022-06-08 18:40:32.274 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "updateCount", "syncTime")
+2022-06-08 18:40:32.274 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("id", "usn", "type", "guid")
+2022-06-08 18:40:32.274 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "type", "guid")
+2022-06-08 18:40:32.274 - Info - "Check table (Tag) OK."
+2022-06-08 18:40:32.274 - Info - "Check table (Resource) OK."
+2022-06-08 18:40:33.734 - Info - open document: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 4  ms
+2022-06-08 18:40:33.762 - Info - initialize reading for: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 27  ms
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "ffff00"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "00ff00"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "00ffff"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "ff00ff"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "0000ff"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "ff0000"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "000080"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "008000"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "808000"
+2022-06-08 18:40:33.879 - Warning - unsupported shortcut name: "c0c0c0"
+2022-06-08 22:22:35.964 - Info - Zhi::Application::DocumentService::changeLastRead 1

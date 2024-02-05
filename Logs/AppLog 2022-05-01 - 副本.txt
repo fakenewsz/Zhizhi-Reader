@@ -1,0 +1,36 @@
+2022-05-01 18:24:22.756 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2022-05-01 18:24:22.756 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2022-05-01 18:24:22.756 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2022-05-01 18:24:22.757 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2022-05-01 18:24:22.757 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2022-05-01 18:24:22.757 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2022-05-01 18:24:22.788 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("lastReadedPage", "siderBarMinimized", "count", "font", "categories")
+2022-05-01 18:24:22.788 - Info - "Check table (Annotation) OK."
+2022-05-01 18:24:22.788 - Info - "Check table (Category) OK."
+2022-05-01 18:24:22.788 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("syncTime", "id", "updateCount")
+2022-05-01 18:24:22.788 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("guid", "id", "type", "usn")
+2022-05-01 18:24:22.789 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("guid", "type", "usn")
+2022-05-01 18:24:22.789 - Info - "Check table (Tag) OK."
+2022-05-01 18:24:22.789 - Info - "Check table (Resource) OK."
+2022-05-01 18:24:25.840 - Info - open document: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 7  ms
+2022-05-01 18:24:25.874 - Info - initialize reading for: "D:/OneDrive/桌面/游资情绪交易系统_铁骨_成都：四川人民出版社2019.11_14786486.pdf" 33  ms
+2022-05-01 18:24:25.905 - Warning - unsupported shortcut name: "ffff00"
+2022-05-01 18:24:25.905 - Warning - unsupported shortcut name: "00ff00"
+2022-05-01 18:24:25.905 - Warning - unsupported shortcut name: "00ffff"
+2022-05-01 18:24:25.905 - Warning - unsupported shortcut name: "ff00ff"
+2022-05-01 18:24:25.905 - Warning - unsupported shortcut name: "0000ff"
+2022-05-01 18:24:25.905 - Warning - unsupported shortcut name: "ff0000"
+2022-05-01 18:24:25.905 - Warning - unsupported shortcut name: "000080"
+2022-05-01 18:24:25.906 - Warning - unsupported shortcut name: "008000"
+2022-05-01 18:24:25.906 - Warning - unsupported shortcut name: "808000"
+2022-05-01 18:24:25.906 - Warning - unsupported shortcut name: "c0c0c0"
+2022-05-01 18:33:33.097 - Info - Zhi::Application::NoteService::newAnnotation id:64, document Id:1, start point:49QPointF(215.021,317.57), canvas:Marker(QVariant(QRectF, QRectF(0,0 247.438x18.719)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2022-05-01 18:33:33.844 - Info - Zhi::Application::NoteService::changeNote id: 64
+2022-05-01 18:33:48.952 - Info - Zhi::Application::NoteService::newAnnotation id:65, document Id:1, start point:49QPointF(336.508,565.363), canvas:Marker(QVariant(QRectF, QRectF(0,0 99.2975x19)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2022-05-01 18:33:55.055 - Info - Zhi::Application::NoteService::changeNote id: 65
+2022-05-01 18:48:51.635 - Info - Zhi::Application::NoteService::newAnnotation id:66, document Id:1, start point:50QPointF(32.1694,122.568), canvas:Marker(QVariant(QRectF, QRectF(0,0 450.744x38.5537)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2022-05-01 18:48:52.982 - Info - Zhi::Application::NoteService::changeNote id: 66
+2022-05-01 18:48:54.901 - Info - Zhi::Application::NoteService::removeMarker id: 66 , index: 2
+2022-05-01 18:48:57.002 - Info - Zhi::Application::NoteService::replaceMarker id: 66 , index: 0 , marker: Marker(QVariant(QLineF, QLineF(QPointF(141.384,7.5),QPointF(443.244,8.73967))),Zhi::Domain::Marker::NoLine,QPen(20,QBrush(QColor(ARGB 0.501961, 0, 0, 1),SolidPattern),SolidLine,32,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2022-05-01 18:49:01.492 - Info - Zhi::Application::NoteService::insertMarker id: 66
+2022-05-01 23:38:21.754 - Info - Zhi::Application::DocumentService::changeLastRead 1

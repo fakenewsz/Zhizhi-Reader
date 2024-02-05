@@ -1,0 +1,30 @@
+2023-01-31 01:02:40.486 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2023-01-31 01:02:40.486 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2023-01-31 01:02:40.486 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 1920 x 1080 , physical DPI: 95.6235 x 95.6235
+2023-01-31 01:02:40.486 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2023-01-31 01:02:40.486 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2023-01-31 01:02:40.486 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe", "C:\\Users\\boguagua\\Downloads\\曼昆《经济学原理》导读.epub")
+2023-01-31 01:02:40.517 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("font", "count", "siderBarMinimized", "lastReadedPage", "categories")
+2023-01-31 01:02:40.517 - Info - "Check table (Annotation) OK."
+2023-01-31 01:02:40.517 - Info - "Check table (Category) OK."
+2023-01-31 01:02:40.517 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("updateCount", "syncTime", "id")
+2023-01-31 01:02:40.517 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("usn", "guid", "type", "id")
+2023-01-31 01:02:40.517 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("usn", "guid", "type")
+2023-01-31 01:02:40.517 - Info - "Check table (Tag) OK."
+2023-01-31 01:02:40.517 - Info - "Check table (Resource) OK."
+2023-01-31 01:02:41.001 - Info - Zhi::Application::DocumentService::newDocument "C:/Users/boguagua/Downloads/曼昆《经济学原理》导读.epub" "44a6591d60d10a5ed21da99c8e1c3126"
+2023-01-31 01:02:41.079 - Info - open document: "C:/Users/boguagua/Downloads/曼昆《经济学原理》导读.epub" 62  ms
+2023-01-31 01:02:41.203 - Info - initialize reading for: "C:/Users/boguagua/Downloads/曼昆《经济学原理》导读.epub" 6  ms
+2023-01-31 01:02:41.216 - Warning - unsupported shortcut name: "ffff00"
+2023-01-31 01:02:41.216 - Warning - unsupported shortcut name: "00ff00"
+2023-01-31 01:02:41.217 - Warning - unsupported shortcut name: "00ffff"
+2023-01-31 01:02:41.217 - Warning - unsupported shortcut name: "ff00ff"
+2023-01-31 01:02:41.217 - Warning - unsupported shortcut name: "0000ff"
+2023-01-31 01:02:41.217 - Warning - unsupported shortcut name: "ff0000"
+2023-01-31 01:02:41.217 - Warning - unsupported shortcut name: "000080"
+2023-01-31 01:02:41.217 - Warning - unsupported shortcut name: "008000"
+2023-01-31 01:02:41.217 - Warning - unsupported shortcut name: "808000"
+2023-01-31 01:02:41.217 - Warning - unsupported shortcut name: "c0c0c0"
+2023-01-31 01:07:16.117 - Info - Zhi::Application::NoteService::newAnnotation id:439, document Id:437, start point:13QPointF(20.25,243), canvas:Marker(QVariant(QRectF, QRectF(0,0 403.5x37.5)),Zhi::Domain::Marker::NoLine,QPen(1,QBrush(QColor(ARGB 1, 0, 0, 0),SolidPattern),NoPen,16,64,QVector(),0,2),QBrush(QColor(ARGB 1, 0, 0, 0),NoBrush))
+2023-01-31 01:07:16.336 - Info - Zhi::Application::NoteService::changeNote id: 439
+2023-01-31 01:58:54.236 - Info - Zhi::Application::DocumentService::changeLastRead 437
