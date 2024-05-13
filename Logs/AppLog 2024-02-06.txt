@@ -1,0 +1,14 @@
+2024-02-06 12:50:51.186 - Info - Open database SUCCESSED, file: "C:/Users/boguagua/Documents/Zhizhi Reader\\database"
+2024-02-06 12:50:51.186 - Info - Zhizhi Reader started. VERSION: "1.5.0.7"
+2024-02-06 12:50:51.186 - Info - OS Version: "Windows 10 (10.0)" , Screen size: 3440 x 1440 , physical DPI: 109.494 x 109.494
+2024-02-06 12:50:51.186 - Info - exe location: "D:/Applications/Zhizhi Reader/ZhizhiReader.exe"
+2024-02-06 12:50:51.186 - Info - Storage location: "C:/Users/boguagua/Documents/Zhizhi Reader"
+2024-02-06 12:50:51.186 - Info - Command arguments ("D:\\Applications\\Zhizhi Reader\\ZhizhiReader.exe")
+2024-02-06 12:50:51.241 - Warning - "Check table (documents) failed. Columns in table but not in object: " QSet("categories", "siderBarMinimized", "lastReadedPage", "font", "count")
+2024-02-06 12:50:51.241 - Info - "Check table (Annotation) OK."
+2024-02-06 12:50:51.241 - Info - "Check table (Category) OK."
+2024-02-06 12:50:51.241 - Warning - "Check table (SyncState) failed. Columns in object but not in table: " QSet("id", "syncTime", "updateCount")
+2024-02-06 12:50:51.241 - Warning - "Check table (Item) failed. Columns in object but not in table: " QSet("type", "usn", "id", "guid")
+2024-02-06 12:50:51.241 - Warning - "Check table (ExpungedItem) failed. Columns in object but not in table: " QSet("type", "usn", "guid")
+2024-02-06 12:50:51.241 - Info - "Check table (Tag) OK."
+2024-02-06 12:50:51.241 - Info - "Check table (Resource) OK."
